@@ -1,0 +1,784 @@
+_id,id,name,description,flash_time,flash_yellow,operation_type,neighborhood,council_district,ward,tract,public_works_division,pli_division,police_zone,fire_zone,latitude,longitude
+1,1233506574,TS1,Aiken Ave - Baum Blvd,24 Hr stop and go,,Fully Actuated,Bloomfield,7,8,42003080600,2,8,5,3-23,40.45694102,-79.93853907
+2,322808398,TS10,Alexander St - Steuben St,24 Hr stop and go,,Semi Actuated,West End,2,20,42003562600,5,20,6,1-17,40.44199257,-80.03454366
+3,1626189126,TS100,Beeler St - Forbes Ave,24 Hr stop and go,,Semi Actuated,Squirrel Hill North,8,14,42003140100,3,14,4,2-26,40.44388961,-79.93879894
+4,2085487046,TS101,Beeler St - Wilkins Ave,00:00 - 06:00,,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-26,40.44563613,-79.93122002
+5,1187990770,TS102,Bellefield Ave - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003040400,3,4,4,2-7,40.4464843,-79.95191405
+6,1501913538,TS103,Bellefield Ave - Forbes Ave,24 Hr stop and go,,Semi Actuated,North Oakland,8,4,42003982200,3,4,4,2-8,40.4439262,-79.95069207
+7,780829291,TS104,Beltzhoover Ave - Warrington Ave,24 Hr stop and go,E WARRINGTON AVE,Fully Actuated,Allentown,3,18,42003180300,5,18,3,4-21,40.42165573,-79.9974037
+8,2111045907,TS105,Bennett St - Braddock Ave,24 Hr stop and go,BENNETT ST,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45504068,-79.89038333
+9,1038462210,TS106,Bennett St - Brushton Ave,24 Hr stop and go,BENNETT ST,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45460561,-79.8884613
+10,855106730,TS107,Bennett St - Dallas Ave - Frankstown Ave,24 Hr stop and go,,Actuated,Homewood West,9,12,42003120700,2,12,5,3-17,40.45809299,-79.90413865
+11,1431836547,TS108,Bennett St - Frankstown Ave - Tokay St,24 Hr stop and go,BENNETT ST,Fixed,East Hills,9,13,42003130600,2,13,5,3-17,40.45470413,-79.88070571
+12,1309547238,TS11,Alger St - Beechwood Blvd - Greenfield Brg - Ronald St,24 Hr stop and go,,Fixed,Greenfield,5,15,42003151700,3,15,4,2-12,40.42706572,-79.93858285
+13,1080282479,TS110,Bennett St - Homewood Ave,24 Hr stop and go,BENNETT ST,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45647165,-79.89666312
+14,2118968168,TS111,Bennett St - Lang Ave,24 Hr stop and go,BENNETT ST,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45697897,-79.89889671
+15,2129935165,TS112,Bennett St - Murtland Ave,24 Hr stop and go,BENNETT ST,Fixed,Homewood West,9,13,42003130300,2,13,5,3-17,40.4575624,-79.90148233
+16,579431089,TS113,Bennett St - Oakwood St,,BENNETT ST,Fixed,East Hills,9,13,42003130400,2,13,5,3-17,40.45403452,-79.88565164
+17,1159606674,TS114,Benton Ave - Brighton  Rd (OSM),24 Hr stop and go,BRIGHTON RD,Fixed / Ped Actuated,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48431934,-80.03582337
+18,2023927709,TS115,Bigelow Blvd - Bloomfield Brg,24 Hr stop and go,BIGELOW BLVD,Fully Actuated,North Oakland,6,5,42003060500,3,5,2,2-24,40.45864166,-79.95734231
+19,34205616,TS116,Bigelow Blvd - Centre Ave,24 Hr stop and go,CENTRE AVE,Semi Actuated,North Oakland,8,5,42003562000,3,5,2,2-23,40.45098373,-79.95490677
+20,1668969701,TS117,Bigelow Blvd - Chatham Sq,24 Hr stop and go,BIGELOW BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,2-4,40.44105999,-79.99379635
+21,2113803900,TS118,Bigelow Blvd - Craig St,24 Hr stop and go,,Fully Actuated,North Oakland,6,5,42003562000,3,5,4,2-23,40.45701847,-79.95520067
+22,2140540832,TS119,Bigelow Blvd - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003982200,3,4,4,2-7,40.44442608,-79.95477868
+23,1047157777,TS120,Bigelow Blvd - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-7,40.44317877,-79.95354911
+24,1355502213,TS121,Grant St - Oliver Ave,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.44011738,-79.99634491
+25,184546041,TS122,Bigelow Blvd - Herron Ave,24 Hr stop and go,BIGELOW BLVD,Fully Actuated,Polish Hill,7,6,42003060500,3,6,2,2-24,40.45574066,-79.96586173
+26,828937106,TS123,Bigelow Blvd - O'Hara St - Parkman Ave,24 Hr stop and go,,Semi Actuated,North Oakland,8,4,42003562000,3,4,4,2-7,40.44571123,-79.95638322
+27,1167672234,TS125,Bingham St - S 10th St,03:00 - 06:00,S 10TH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42942257,-79.98861234
+28,748144809,TS126,Black St - Chislett St,24 Hr stop and go,BLACK ST,Fixed,Garfield,9,11,42003111300,2,11,5,3-4,40.46967382,-79.9300943
+29,1768891284,TS127,Black St - Negley Ave,24 Hr stop and go,N NEGLEY AVE,Master,East Liberty,9,11,42003111300,2,11,5,3-8,40.46875811,-79.92752058
+30,2106555654,TS128,Blackadore Ave - Frankstown Ave,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood North,9,13,42003130100,2,13,5,3-17,40.45545896,-79.88336704
+31,98755868,TS129,Bloomfield Brg - Liberty Ave,24 Hr stop and go,,Fully Actuated,Bloomfield,7,9,42003090300,2,9,5,3-6,40.46362239,-79.95282909
+32,1547702695,TS13,Allegheny Ave - North Ave,23:00 - 6:00,,Fixed,Manchester,1,22,42003210700,1,22,1,1-8,40.45311019,-80.01943264
+33,2105552586,TS130,Bouquet St - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,Central Oakland,8,4,42003040500,3,4,4,2-14,40.44252154,-79.95744107
+34,79865242,TS131,Bouquet St - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.44195697,-79.95644147
+35,466970229,TS132,Braddock Ave - Forbes Ave,24 Hr stop and go,BRADDOCK AVE,Fixed / Ped Actuated,Point Breeze,9,14,42003140600,3,14,4,3-14,40.43966933,-79.89764546
+36,1457717099,TS133,Braddock Ave - Hamilton Ave,24 Hr stop and go,HAMILTON AVE,Fully Actuated,Homewood South,9,13,42003130400,2,13,5,3-17,40.45317292,-79.89111169
+37,113208382,TS135,Braddock Ave - Meade St,24 Hr stop and go,BRADDOCK AVE,Fixed / Ped Actuated,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.44802004,-79.89453868
+38,1160048083,TS136,Braddock Ave - Penn Ave,stop and go,PENN AVE,Fully Actuated,Point Breeze,9,14,42003140600,3,14,4,3-14,40.44714048,-79.89516529
+39,1524907386,TS137,Carson St - S 22nd St,03:00 - 06:00,E CARSON ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42842055,-79.974642
+40,287170893,TS138,Birmingham Brdg - Fifth Ave - Kirkpatrick St,24 Hr stop and go,FIFTH AVE,Actuated,West Oakland,6,4,42003040200,3,4,4,2-1,40.43772939,-79.97264902
+41,1205419201,TS139,Birmingham Brg - Brady St - Forbes Ave,24 Hr stop and go,FORBES AVE,Fully Actuated,Bluff,6,4,42003010300,3,4,2,2-1,40.43715688,-79.97346118
+42,568154260,TS14,Allegheny Ave - Pennsylvania Ave,23:00 - 6:00,,Fixed,California-Kirkbride,1,25,42003250700,1,25,1,1-8,40.45520827,-80.02011209
+43,202507238,TS140,Second Ave - Brady St,24 Hr stop and go,SECOND AVE,Semi Actuated,South Oakland,6,4,42003980800,3,4,4,2-2,40.43580709,-79.97261281
+44,946636336,TS141,Brierly Ln - Interboro Ave - West Run Rd,24 Hr stop and go,INTERBORO AVE,Fixed,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.37690263,-79.90933924
+45,1417293667,TS142,Brighton Rd - California Ave - Charles St,24 Hr stop and go,BRIGHTON RD,Fixed / Ped Actuated,California-Kirkbride,6,25,42003250700,1,25,1,1-9,40.45966358,-80.01707294
+46,1591950783,TS143,Brighton Rd - Davis Ave,24 Hr stop and go,BRIGHTON RD,Fixed,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48171495,-80.03396445
+47,1155067887,TS144,Brighton Rd - Jacksonia St,23:00-6:00,BRIGHTON RD,Fixed,Central Northside,6,25,42003250300,1,25,1,1-21,40.45680492,-80.01557714
+48,1770015732,TS145,Brighton Rd - Marshall Ave,24 Hr stop and go,BRIGHTON RD,Fully Actuated,Perry South,6,26,42003270400,1,26,1,1-9,40.46689545,-80.02501582
+49,1642910405,TS146,Brighton Rd - North Ave (OSM),24 Hr stop and go,BRIGHTON RD,Fixed,Central Northside,1,22,42003220600,1,22,1,1-21,40.45397431,-80.01457128
+50,197122036,TS147,Brighton Rd - Schimmer St - Westborn St,24 Hr stop and go,BRIGHTON RD,Fully Actuated,Marshall-Shadeland,1,27,42003271500,1,27,1,1-14,40.47365948,-80.02879609
+51,1273941664,TS148,Brighton Rd - Termon Ave,24 Hr stop and go,BRIGHTON RD,Fixed,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48306069,-80.03542423
+52,1598724684,TS149,Brighton Rd - Western Ave,23:00-6:00,BRIGHTON RD,Fixed,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45241305,-80.01402147
+53,1468195834,TS15,Allegheny Ave - Ridge Ave,24 Hr stop and go,,Fixed,Chateau,1,22,42003562700,1,22,1,1-8,40.44968628,-80.01831551
+54,438328071,TS150,Brighton Rd - Woods Run Ave,24 Hr stop and go,BRIGHTON RD,Semi Actuated,Brighton Heights,1,27,42003270300,1,27,1,1-14,40.47649707,-80.03172145
+55,2022833379,TS151,Broad St - East Liberty Blvd - Frankstown Ave,24 Hr stop and go,,Fully Actuated,Larimer,9,12,42003120800,2,12,5,3-10,40.46081444,-79.915792
+56,173350294,TS152,Broad St - Larimer Ave,24 Hr. stop and go,BROAD ST,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-10,40.46122199,-79.92083477
+57,2075281814,TS153,Broad St - Centre Ave,24 Hr. stop and go,CENTRE AVE,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46167148,-79.92208005
+58,2090425771,TS154,Brookline Blvd - Castlegate Ave,24 Hr stop and go,BROOKLINE BLVD,Actuated,Brookline,4,19,42003191800,5,19,6,4-26,40.3948568,-80.02154964
+59,189748274,TS155,Brookline Blvd - Flatbush Ave,24 Hr stop and go,BROOKLINE BLVD,Actuated,Brookline,4,19,42003191800,5,19,6,4-26,40.39372381,-80.01997171
+60,490332586,TS156,Brookline Blvd - Glenarm Ave,24 Hr stop and go,BROOKLINE BLVD,Actuated,Brookline,4,19,42003191900,5,19,6,4-26,40.39212404,-80.01774069
+61,954686217,TS157,Brookline Blvd - Wenzell Ave -W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fixed / Ped Actuated,Brookline,4,19,42003191900,5,19,6,4-26,40.39825736,-80.02627859
+62,166264234,TS158,Brookline Blvd - Pioneer Ave,24 Hr stop and go,BROOKLINE BLVD,Actuated/PED,Brookline,4,19,42003191800,5,19,6,4-26,40.39607729,-80.02363934
+63,614269418,TS159,Brookside Ave - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fixed / Ped Actuated,Beechview,4,19,42003191600,5,19,6,4-28,40.4104383,-80.01554063
+64,2022050036,TS16,Allegheny River Blvd - Washington Blvd,24 Hr stop and go,,Fully Actuated,Highland Park,7,12,42003980100,2,12,5,3-15,40.48427707,-79.90784949
+65,607546384,TS160,Browns Hill Rd -Parkview Blvd,24 Hr stop and go,BROWNS HILL RD,Semi Actuated,Squirrel Hill South,5,15,42003141400,3,15,4,2-12,40.41400099,-79.92306042
+66,1236566133,TS161,Browns Hill Rd - Imogene Rd,24 Hr stop and go,BROWNS HILL RD,Semi Actuated,Squirrel Hill South,5,15,42003141400,3,15,4,2-12,40.41545648,-79.92491166
+67,935294140,TS163,Brownsville Rd - Crailo Ave,24 Hr stop and go,BROWNSVILLE RD,Semi Actuated,Carrick,4,29,42003290200,3,29,3,4-12,40.39669764,-79.98766896
+68,1968966319,TS164,Brownsville Rd - Knox Ave - Margaret St,24 Hr stop and go,BROWNSVILLE RD,Fixed,Knoxville,,30,42003481000,5,30,3,4-7,40.41072595,-79.99021219
+69,1428136597,TS165,Brownsville Rd - Maytide St - Sankey Ave,24 Hr stop and go,BROWNSVILLE RD,Fixed,Carrick,4,29,42003290400,3,29,3,4-23,40.38435902,-79.97779814
+70,1648755973,TS166,Brownsville Rd - Mckinley St,23:00 - 06:00,BROWNSVILLE RD,Fixed,Knoxville,,30,42003481000,5,30,3,4-7,40.40875321,-79.9911139
+71,1864861521,TS167,Brownsville Rd - Nobles Ln,01:00 -- 06:00,BROWNSVILLE RD,Fixed,Carrick,4,29,42003290200,3,29,3,4-12,40.40384539,-79.99011628
+72,681274432,TS168,Brownsville Rd - Parkfield St,12:00 AM - 06:00 AM,BROWNSVILLE RD,Fixed / Ped Actuated,Carrick,4,29,42003290200,3,29,3,4-12,40.39133896,-79.98660924
+73,1848524786,TS169,Brushton Ave - Frankstown Ave,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45553452,-79.88809625
+74,1188540770,TS17,Allegheny Ave - Western Ave,24 Hr stop and go,,Fixed,Chateau,1,22,42003980600,1,22,1,1-8,40.45152588,-80.01890037
+75,368170496,TS170,Brushton Ave - Hamilton Ave,24 Hr stop and go,HAMILTON AVE,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45273351,-79.88919316
+76,161626785,TS171,Bryn Mawr Rd - Centre Ave,0:00-6:00,CENTRE AVE,Fixed,Upper Hill,8,4,42003050600,3,4,4,2-23,40.44898042,-79.95771355
+77,1500771844,TS172,Buncher - Carson St,24 Hr stop and go,CARSON ST RAMP,Fully Actuated,South Shore,2,19,42003980700,5,19,3,1-17,40.44167613,-80.02143088
+78,521606798,TS173,Butler St - 51st St - Stanton Ave,24 Hr stop and go,BUTLER ST,Fixed,Upper Lawrenceville,7,9,42003101100,2,9,2,3-5,40.47835523,-79.95570257
+79,349413014,TS174,Butler St - 52nd St,24 Hr stop and go,BUTLER ST,Fixed,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48042235,-79.95445498
+80,1035343189,TS175,Butler St - 40th St,24 Hr stop and go,BUTLER ST,Fully Actuated,Lower Lawrenceville,7,9,42003060300,2,9,2,3-3,40.46871496,-79.96229339
+81,1732838793,TS176,Butler St - 44th St,24 Hr stop and go,BUTLER ST,Fixed,Central Lawrenceville,7,9,42003090100,2,9,2,3-3,40.47146906,-79.95979816
+82,1182647053,TS177,Butler St - 46th St,24 Hr stop and go,BUTLER ST,Fixed,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.47282549,-79.95881069
+83,696280378,TS178,Butler St - 54th St,24 Hr stop and go,BUTLER ST,Fixed,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48286312,-79.95121697
+84,641680212,TS179,Butler St - 57th St,24 Hr stop and go,BUTLER ST,Semi Actuated,Upper Lawrenceville,7,10,42003101100,2,10,5,3-5,40.48516621,-79.94630157
+85,450949955,TS18,Blvd of the Allies - Bates St,24 Hr stop and go,,Semi Actuated,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43513204,-79.95641096
+86,1913335443,TS180,Butler St - Main St,24 Hr stop and go,BUTLER ST,Fixed,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.46980375,-79.96091343
+87,965564505,TS181,Butler St - Mccandless Ave,24 Hr stop and go,BUTLER ST,Fixed,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48159828,-79.95344475
+88,1604252664,TS182,Butler St - Penn Ave,24 Hr stop and go,,Fully Actuated,Lower Lawrenceville,7,6,42003060300,2,6,2,3-2,40.46268154,-79.96721699
+89,1623738500,TS183,Butler St - 48th St - Plummer St,24 Hr stop and go,BUTLER ST,Fixed,Central Lawrenceville,7,9,42003981000,2,9,2,3-5,40.47586149,-79.95764492
+90,1675513167,TS185,Butler St - 62nd St,24 Hr stop and go,BUTLER ST,Fully Actuated,Morningside,7,10,42003101400,2,10,5,3-7,40.48843721,-79.93715878
+91,458331583,TS186,Butler St -37th St,24 Hr stop and go,BUTLER ST,Fixed,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46620306,-79.9647339
+92,1793262027,TS187,California Ave - Davis Ave,24 Hr stop and go,CALIFORNIA AVE,Fixed,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48007504,-80.04108247
+93,1603723371,TS191,California Ave - Termon Ave,24 Hr stop and go,,Fixed,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48191135,-80.04176745
+94,10423150,TS192,Cape May Ave - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fixed / Ped Actuated,Brookline,4,19,42003191700,5,19,6,4-28,40.40845654,-80.01778297
+95,452184134,TS193,Capital Ave - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fixed / Ped Actuated,Brookline,4,19,42003191700,5,19,6,4-28,40.40536288,-80.01880332
+96,889974294,TS194,Carnegie Pl - Penn Ave,stop and go,PENN AVE,Actuated/PED,Point Breeze North,9,14,42003140500,3,14,4,3-14,40.44815998,-79.89820288
+97,345272195,TS195,Carson St - Corliss St,24 Hr stop and go,CARSON ST RAMP,Fully Actuated,Esplen,2,20,42003562500,5,20,6,1-27,40.45288321,-80.03939135
+98,1212786957,TS196,Carson St - S 18th St,24 Hr stop and go,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42876672,-79.98056514
+99,1446942669,TS197,Carson St - Main St,,,Fully Actuated,South Shore,2,19,42003980700,5,19,3,1-17,,
+100,1922941271,TS198,Carson St - S 17th St,03:00 - 06:00,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42884298,-79.98205031
+101,307839969,TS199,Carson St - Tabor St,24 Hr stop and go,CARSON ST RAMP,Fully Actuated,Esplen,2,20,42003562500,5,20,6,1-27,40.46275205,-80.05189037
+102,2011109930,TS2,Aiken Ave - Centre Ave - Liberty Ave,24 Hr stop and go,,Fully Actuated,Shadyside,8,7,42003070900,2,7,4,3-23,40.45591767,-79.93859438
+103,626662746,TS20,Blvd of the Allies - Cherry Way,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43745252,-79.99931216
+104,1275543187,TS200,Carson St - S 10th St,24 Hr stop and go,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42871045,-79.98857658
+105,481445183,TS201,Carson St - S 12th St,03:00 - 06:00,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42875786,-79.98642537
+106,1792407600,TS202,Carson St - S 20th St,03:00 - 06:00,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42859587,-79.97763867
+107,547113883,TS205,Carson St - West End Br - Main St,24 Hr stop and go,CARSON ST RAMP,Actuated,South Shore,2,19,42003980700,5,19,3,1-17,40.44426464,-80.02820606
+108,262270363,TS206,Cedar Ave - North Ave,24 Hr stop and go,NORTH AVE,Fixed,East Allegheny,1,22,42003563200,1,22,1,1-6,40.45622694,-80.00262399
+109,1510247005,TS207,Cedar Ave - East Ohio St,24 Hr stop and go,EAST OHIO ST,Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45332005,-80.00169657
+110,350209643,TS208,Centre Ave - Craig St,24 Hr stop and go,CENTRE AVE,Fixed / Ped Actuated,North Oakland,8,5,42003562000,3,5,4,2-23,40.4518915,-79.95202093
+111,1548280263,TS209,Centre Ave - Crawford St,24 Hr stop and go,CENTRE AVE,Fixed,Central Business District,6,3,42003020100,6,3,2,2-1,40.44103751,-79.98601351
+112,274826791,TS21,Blvd of the Allies - Commonwealth Pl,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-3,40.4403047,-80.00701499
+113,1535156430,TS210,Centre Ave - Francis St,00:00 - 06:00,CENTRE AVE,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-5,40.4471124,-79.96748785
+114,1997983572,TS211,Centre Ave - S Graham St,24 Hr stop and go,CENTRE AVE,Fully Actuated,Shadyside,8,8,42003070900,2,8,4,3-22,40.45657258,-79.93649344
+115,1285388780,TS212,Centre Ave - Kirkpatrick St - Mahon St,24 Hr stop and go,CENTRE AVE,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-1,40.44531449,-79.97623874
+116,2084743863,TS213,Centre Ave - Melwood Ave,24 Hr stop and go,CENTRE AVE,Fully Actuated,North Oakland,8,4,42003562000,3,4,4,2-23,40.45224148,-79.95086462
+117,170752439,TS214,Centre Ave - Millvale Ave,24 Hr stop and go,CENTRE AVE,Fully Actuated,Shadyside,8,7,42003070900,2,7,4,2-23,40.45329867,-79.94734956
+118,489596708,TS215,Centre Ave - Morewood Ave,24 Hr stop and go,CENTRE AVE,Fully Actuated,Shadyside,8,7,42003080400,2,7,5,2-23,40.45416769,-79.94445193
+119,427262988,TS216,Centre Ave - Negley Ave,24 Hr stop and go,CENTRE AVE,Fully Actuated,Shadyside,8,7,42003070900,2,7,4,3-11,40.45726977,-79.93406042
+120,1090595147,TS217,Centre Ave - Neville St,24 Hr stop and go,CENTRE AVE,Fully Actuated,North Oakland,8,4,42003562000,3,4,4,2-23,40.45259255,-79.94969125
+121,1996392775,TS22,Blvd of the Allies - Craft Ave,24 Hr stop and go,,Semi Actuated,South Oakland,3,4,42003040900,3,4,4,2-14,40.43584438,-79.96153038
+122,166260431,TS220,Centre Ave - Washington Pl,24 Hr stop and go,,Fixed,Central Business District,6,3,42003020100,6,3,2,2-4,40.44044607,-79.99145205
+123,1724665899,TS221,Charles St - Perrysville Ave,00:00 - 06:00,PERRYSVILLE AVE,Fixed,Perry South,6,26,42003261500,1,26,1,1-23,40.47101409,-80.00860156
+124,462552568,TS222,Chartiers Ave - Lorenz Ave,24 Hr stop and go,CHARTIERS AVE,Semi Actuated,Elliott,2,20,42003562600,5,20,6,1-17,40.44398115,-80.04063288
+125,1073457786,TS226,Chaucer St - Deary St - Lincoln Ave,24 Hr stop and go,LINCOLN AVE,Fixed,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-15,40.46421488,-79.90075852
+126,1182969737,TS227,Cherry Way - Fifth Ave - WIlliam Penn Pl,24 Hr stop and go,FIFTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43974842,-79.99772074
+127,849705252,TS228,Cherry Way - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43905892,-79.99821616
+128,248558072,TS229,Cherry Way - Fourth Ave,00:00 - 06:00,FOURTH AVE,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43840401,-79.99866647
+129,1086050341,TS23,Blvd of the Allies - Dawson St,24 Hr stop and go,,Fixed,Central Oakland,3,4,42003040600,3,4,4,2-11,40.43439129,-79.95319393
+130,1179327304,TS231,Chestnut St - East Ohio St,24 Hr stop and go,EAST OHIO ST,Fixed,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45492703,-79.9945075
+131,141655232,TS232,Chestnut St - Progress St,24 Hr stop and go,CHESTNUT ST,Fixed,Troy Hill,1,23,42003240600,1,23,1,1-5,40.45319413,-79.99269077
+132,583715480,TS233,Chislett St - Stanton Ave,24 Hr stop and go,STANTON AVE,Fixed,East Liberty,7,11,42003111300,2,11,5,3-7,40.4732605,-79.93074285
+133,333438521,TS234,Collier St - Frankstown Ave,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45640084,-79.89190477
+134,1123714228,TS235,Centre Ave - Station St,00:00 - 06:00,CENTRE AVE,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46287917,-79.92130109
+135,1757953109,TS236,Commons - Federal St N,24 Hr stop and go,,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45392567,-80.0060741
+136,2055879282,TS237,Commons - Federal St S,24 Hr stop and go,,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45021479,-80.00496805
+137,2058810229,TS238,Commons - East Ohio St,24 Hr stop and go,,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45297138,-80.00367899
+138,517929728,TS239,Commons - Ridge Ave,24 Hr stop and go,,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45219124,-80.00765178
+139,831550141,TS24,Blvd of the Allies - Grant St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43707158,-79.99836601
+140,713215469,TS240,Commons - Sandusky St - Stockton Ave,24 Hr stop and go,,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45069805,-80.00294111
+141,716179702,TS241,Commonwealth Pl - Liberty Ave,24 Hr stop and go,,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44094369,-80.0067775
+142,1358581049,TS242,Craft Ave - Fifth Ave,24 Hr stop and go,,Fixed / Ped Actuated,South Oakland,6,4,42003040900,3,4,4,2-14,40.4378499,-79.96393561
+143,1318549967,TS243,Craft Ave - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed / Ped Actuated,South Oakland,6,4,42003040900,3,4,4,2-14,40.43711678,-79.96311466
+144,398270442,TS244,Crafton Blvd - Stratmore St,24 Hr stop and go,,Fixed,Westwood,2,28,42003563100,5,28,6,1-18,40.43777463,-80.05586093
+145,963888247,TS245,Craig St - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed / Ped Actuated,North Oakland,8,4,42003040400,3,4,4,2-9,40.44694438,-79.94900943
+146,1769921946,TS246,Craig St - Forbes Ave,24 Hr stop and go,FORBES AVE,Semi Actuated,North Oakland,8,4,42003982200,3,4,4,2-9,40.44442364,-79.94860112
+147,1432370983,TS247,Crosstown Blvd  Ramp - Liberty Br,24 Hr stop and go,SIXTH AVE,Fully Actuated,Bluff,6,1,42003010300,3,1,2,1-4,40.43614664,-79.99448192
+148,1120565715,TS248,East Liberty Blvd - Penn Ave,24 Hr stop and go,PENN AVE,Actuated,Larimer,8,7,42003120800,2,7,5,3-13,40.45748904,-79.91741515
+149,68099917,TS249,Dallas Ave - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-18,40.43803562,-79.91308603
+150,718017143,TS25,Blvd of the Allies - Halket St - Zulema St,24 Hr stop and go,,Fixed / Ped Actuated,Central Oakland,3,4,42003040500,3,4,4,2-14,40.43591205,-79.95812186
+151,1831431118,TS250,Dallas Ave - Hamilton Ave,24 Hr stop and go,HAMILTON AVE,Fixed,Homewood West,9,12,42003120700,2,12,5,3-17,40.45627195,-79.90476258
+152,178719949,TS251,DALLAS  KELLY,24 Hr Stop & Go,KELLY ST,Fixed,Homewood West,9,12,42003120700,2,12,5,3-17,40.4572061,-79.90438872
+153,1799478826,TS252,Dallas Ave - Penn Ave,stop and go,PENN AVE,Fully Actuated,Point Breeze North,8,14,42003140500,3,14,4,3-14,40.4514949,-79.90819488
+154,1046132809,TS253,Dallas Ave - Reynolds St,24 Hr stop and go,S DALLAS AVE,Semi Actuated,Point Breeze,8,14,42003140600,3,14,4,2-17,40.4487689,-79.91016129
+155,343769548,TS254,Dallas Ave - Thomas Blvd,24 Hr stop and go,THOMAS BLVD,Fixed,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.45322974,-79.90693572
+156,1511921944,TS255,Dallas Ave - Wilkins Ave,24 Hr stop and go,S DALLAS AVE,Fixed,Point Breeze,9,14,42003140400,3,14,4,2-18,40.44685123,-79.91162423
+157,1041996339,TS256,Darlington Rd - Murray Ave,,MURRAY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43698195,-79.92293055
+158,1980836391,TS257,Darragh St - Fifth Ave - Mckee Pl,24 Hr stop and go,FIFTH AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.44046791,-79.96027767
+159,1342515581,TS258,Desoto St - Fifth Ave - Oakland Ave,24 Hr stop and go,FIFTH AVE,Fixed,West Oakland,8,4,42003040200,3,4,4,2-14,40.4422237,-79.95811006
+160,464172533,TS259,Desoto St - O'Hara St,24 Hr stop and go,DE SOTO ST,Fixed / Ped Actuated,West Oakland,8,4,42003040200,3,4,4,2-14,40.44315486,-79.95988098
+161,2124966773,TS26,Blvd of the Allies - Market St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43908631,-80.00363784
+162,1818599358,TS260,Dinwiddie St - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-1,40.43836768,-79.98077836
+163,872988999,TS261,Dithridge St - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003982200,3,4,4,2-9,40.44679192,-79.9506046
+164,750516954,TS263,East St - Evergreen Rd,00:00 - 06:00,EVERGREEN RD,Fully Actuated,Perry North,1,26,42003260200,1,26,1,1-15,40.48634869,-80.00974827
+165,466869787,TS265,East St - North Ave,24 Hr stop and go,EAST ST,Fixed,East Allegheny,1,23,42003563200,1,23,1,1-6,40.45692814,-79.99883116
+166,2077005411,TS266,East St - East Ohio St,24 Hr stop and go,EAST OHIO ST,Actuated,East Allegheny,1,23,42003563200,1,23,1,1-6,40.45398082,-79.99786794
+167,1775799773,TS267,East St - Tripoli St,24 Hr stop and go,EAST ST,Fixed,East Allegheny,1,23,42003563200,1,23,1,1-6,40.45642642,-79.99866345
+168,1586208469,TS269,East Liberty Blvd - Euclid Ave,24 Hr stop and go,E LIBERTY BLVD,Fully Actuated,East Liberty,9,11,42003111300,2,11,5,3-8,40.46671083,-79.92531983
+169,804718321,TS27,Blvd of the Allies - Smithfield St,24 Hr stop and go,,Semi Actuated,Central Business District,6,1,42003020100,6,1,2,1-4,40.437786,-80.00018353
+170,203299372,TS270,East Liberty Blvd - Hamilton Ave,24 Hr stop and go,E LIBERTY BLVD,Fully Actuated,East Liberty,9,12,42003120800,2,12,5,3-10,40.45986644,-79.91577414
+171,830008298,TS271,East Liberty Blvd - Highland Ave,24 Hr stop and go,,Fully Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46594061,-79.922742
+172,1272586530,TS272,East Liberty Blvd - Larimer Ave,24 Hr stop and go,E LIBERTY BLVD,Fully Actuated,Larimer,9,12,42003120800,2,12,5,3-10,40.46345409,-79.91740914
+173,82517090,TS273,East Liberty Blvd - Negley Ave,00:00 - 06:00,N NEGLEY AVE,Fixed,East Liberty,9,11,42003111300,2,11,5,3-8,40.46773118,-79.92812602
+174,1343464850,TS274,Centre Ave - East Liberty Blvd - Negley Run Blvd,24 Hr stop and go,E LIBERTY BLVD,Fully Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46507797,-79.91990734
+175,4024980,TS275,East Hills Dr - Eastwood Rd - Frankstown Rd,,,,East Hills,9,13,42003523100,2,13,5,3-17,40.46117001,-79.87025562
+176,928670804,TS276,Edgebrook Ave - Saw Mill Run Blvd,01:00 - 05:00,SAW MILL RUN BLVD,Semi Actuated,Carrick,4,32,42003562400,3,32,3,4-18,40.40207568,-80.00066818
+177,519788769,TS277,Edmond St - Friendship Ave,23:00 - 06:00,FRIENDSHIP AVE,Fixed / Ped Actuated,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46287139,-79.94781695
+178,1902792470,TS278,Edmond St - Liberty Ave,00:00 - 06:00,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080200,2,8,5,3-6,40.4611356,-79.9480691
+179,1774002994,TS279,S 18th St - Jane St,24 Hr stop and go,S 18TH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42696077,-79.98074393
+180,775912801,TS28,Blvd of the Allies - Stanwix St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43960655,-80.00502447
+181,729040956,TS280,S 18th St - Mission St - Pius St,24 Hr stop and go,S 18TH ST,Fixed,South Side Slopes,3,17,42003170600,3,17,3,4-3,40.42383496,-79.97769572
+182,1936587336,TS281,S 18th St - Sarah St,24 Hr stop and go,S 18TH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.4278464,-79.98065508
+183,913547561,TS282,Grant St - Liberty Ave - 11th St,24 Hr stop and go,GRANT ST,Fixed / Ped Actuated,Central Business District,6,2,42003020100,6,2,2,2-3,40.44413207,-79.99345422
+184,102678072,TS283,Penn Ave - 11th St,24 hour stop and go,ELEVENTH ST,Fixed,Central Business District,7,2,42003020100,6,2,2,2-3,40.44494448,-79.99386221
+185,1428073226,TS284,Elizabeth St - Second Ave,24 Hr stop and go,SECOND AVE,Fixed,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40709873,-79.94327492
+186,2039081875,TS285,Ella St - Liberty Ave,,LIBERTY AVE,Fixed,Bloomfield,7,9,42003080200,2,9,5,3-6,40.46315364,-79.95181482
+187,688688248,TS286,Ellsworth Ave -  Morewood Ave,24 Hr stop and go,ELLSWORTH AVE,Fixed,Shadyside,8,7,42003070900,2,7,4,3-22,40.45088412,-79.94305338
+188,1283244208,TS287,Ellsworth Ave - Negley Ave,24 Hr stop and go,S NEGLEY AVE,Fixed,Shadyside,8,7,42003070500,2,7,4,3-11,40.45475415,-79.93257125
+189,559360352,TS288,Englert St - Saw Mill Run Blvd,01:00 - 05:00,SAW MILL RUN BLVD,Semi Actuated,Overbrook,4,32,42003320700,5,32,3,4-25,40.38796638,-79.99641824
+190,1238936023,TS289,Estella Ave - Warrington Ave,00:00 - 07:00,E WARRINGTON AVE,Fixed,Beltzhoover,3,18,42003562400,5,18,3,4-21,40.42102202,-80.00055595
+191,1365504850,TS29,Blvd of the Allies - Ward St,24 Hr stop and go,,Fixed,South Oakland,3,4,42003040900,3,4,4,2-11,40.43459492,-79.95459306
+192,1787369165,TS290,Evaline St - Penn Ave,24 Hr stop and go,PENN AVE,Semi Actuated,Garfield,7,8,42003101700,2,8,5,3-23,40.4647531,-79.94113839
+193,1190277941,TS291,Evergreen Rd - Mcknight Rd,24 Hr stop and go,MCKNIGHT RD,Fully Actuated,Perry North,1,26,42003260200,1,26,1,1-15,40.49305386,-80.01141577
+194,1163822607,TS292,Federal St - General Robinson St,24 Hr stop and go,GENERAL ROBINSON ST,Fixed,North Shore,1,22,42003981200,6,22,1,1-7,40.44825382,-80.00425325
+195,2030251548,TS293,Federal St - Lacock St,1:00-6:00,FEDERAL ST,Fixed,North Shore,1,22,42003981200,6,22,1,1-20,40.44914478,-80.00452968
+196,777251213,TS294,Federal St - North Ave,24 Hr stop and go,NORTH AVE,Fixed,Central Northside,1,22,42003562700,1,22,1,1-21,40.45545733,-80.00663553
+197,475738090,TS295,Fifth Ave - Frankstown Ave - Washington Blvd,24 Hr stop and go,FIFTH AVE,Fixed,Homewood West,9,12,42003120700,2,12,5,3-17,40.45868215,-79.90804293
+198,750851804,TS296,Fifth Ave - Grant St,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43939234,-79.99678031
+199,518147947,TS297,Fifth Ave - Halket St,24 Hr stop and go,FIFTH AVE,Fixed,West Oakland,6,4,42003040200,3,4,4,2-14,40.43913938,-79.96207414
+200,1623563026,TS298,Fifth Ave - Hamilton Ave,24 Hr stop and go,FIFTH AVE,Fixed,Homewood West,9,12,42003120700,2,12,5,3-17,40.45728994,-79.90906285
+201,947320557,TS299,Fifth Ave - Highland Ave,24 Hr stop and go,FIFTH AVE,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-17,40.45193977,-79.9239745
+202,375348238,TS3,Aiken Ave - Ellsworth Ave,24 Hr stop and go,,Fixed,Shadyside,8,7,42003070900,2,7,4,3-22,40.4527532,-79.93672997
+203,814034741,TS30,Blvd of the Allies - Wood St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43844503,-80.0019359
+204,723932146,TS300,Chatham Sq - Fifth Ave - Washington Pl,24 Hr stop and go,FIFTH AVE,Fixed,Bluff,6,3,42003020100,6,3,2,2-4,40.43881458,-79.99094683
+205,723398801,TS301,Fifth Ave - Liberty Ave,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44169649,-80.00270302
+206,1000188368,TS302,Fifth Ave - Lytton Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003982200,3,4,4,2-7,40.44501881,-79.95394357
+207,496582826,TS303,Fifth Ave - Magee St,00:00 - 06:00,FIFTH AVE,Fixed,Bluff,6,3,42003020100,3,3,2,2-4,40.43869366,-79.98826907
+208,168819256,TS304,Fifth Ave - Market St,0:00-6:00,FIFTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44139104,-80.00211151
+209,336310886,TS305,Fifth Ave - Maryland Ave,24 Hr stop and go,FIFTH AVE,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-17,40.45052191,-79.92751099
+210,1087401421,TS306,Fifth Ave - Morewood Ave,24 Hr stop and go,FIFTH AVE,Fixed,Shadyside,8,14,42003140100,2,14,4,2-26,40.44742241,-79.94245562
+211,456277966,TS307,Fifth Ave - Negley Ave,24 Hr stop and go,FIFTH AVE,Semi Actuated,Shadyside,8,14,42003070600,3,14,4,2-17,40.44983522,-79.92964943
+212,1333689282,TS308,Fifth Ave - Neville St,24 Hr stop and go,FIFTH AVE,Fixed,Shadyside,8,4,42003040400,3,4,4,2-9,40.4470844,-79.94728611
+213,1642941472,TS309,Fifth Ave - Penn Ave - Cecil Pl,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44249759,-80.0030995
+214,1545556265,TS31,Amanda St - Bausman St - Brownsville Rd,24 Hr stop and go,,Semi Actuated,Knoxville,,30,42003481000,5,30,3,4-7,40.41444194,-79.98804176
+215,1550114750,TS310,Fifth Ave - Penn Ave,stop and go,,Fully Actuated,Larimer,9,7,42003120800,3,7,4,3-14,40.45404544,-79.91242677
+216,2096881856,TS311,Fifth Ave - Pride St,00:00 - 06:00,FIFTH AVE,Fixed,Bluff,6,3,42003010300,3,3,2,2-4,40.43854957,-79.98506002
+217,246116498,TS312,Fifth Ave - Shady Ave,24 Hr stop and go,FIFTH AVE,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-17,40.45290175,-79.92071525
+218,1408041440,TS313,Fifth Ave - Sixth Ave,24 Hr stop and go,SIXTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43895496,-79.9946652
+219,814400539,TS314,Fifth Ave - Smithfield St,24 Hr stop and go,SMITHFIELD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.44009323,-79.99864955
+220,200096614,TS315,Fifth Ave - Tennyson Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003982200,3,4,4,2-7,40.44558174,-79.95317666
+221,451018339,TS316,Fifth Ave - Thackeray Ave,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,3,4,42003982200,3,4,4,2-7,40.44315955,-79.95657245
+222,1971344963,TS318,Fifth Ave - Wilkins Ave,24 Hr stop and go,FIFTH AVE,Fixed,Shadyside,8,14,42003070300,3,14,4,2-26,40.44780036,-79.93729453
+223,2004813443,TS319,Fifth Ave - Wood St,24 Hr stop and go,WOOD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.4407478,-80.00039418
+224,52473521,TS32,Amberson Ave - Ellsworth Ave,23:00 - 06:00,,Fixed,Shadyside,8,7,42003070900,2,7,4,3-22,40.45132394,-79.94095149
+225,1354769511,TS320,First Ave - Grant St,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43656338,-79.9987255
+226,1410225376,TS323,Flowers Ave - Second Ave,23:00 - 06:00,SECOND AVE,Fixed,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40999713,-79.94408036
+227,1652887156,TS324,Forbes Ave - Grant St,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43869788,-79.99726976
+228,418307789,TS325,Forbes Ave - Halket St,24 Hr stop and go,FORBES AVE,Fixed,South Oakland,3,4,42003040900,3,4,4,2-14,40.43847268,-79.96124325
+229,1938459672,TS326,Forbes Ave - Liberty Ave - Stanwix St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-3,40.44126722,-80.00402382
+230,428762601,TS327,Forbes Ave - Magee St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-4,40.43781917,-79.9883582
+231,1846795534,TS328,Forbes Ave - Margaret Morrison St,24 Hr stop and go,FORBES AVE,Fixed,Squirrel Hill North,8,14,42003140100,3,14,4,2-8,40.44267285,-79.93760761
+232,1740199771,TS329,Forbes Ave - Mckee Pl,24 Hr stop and go,FORBES AVE,Semi Actuated,Central Oakland,3,4,42003040500,3,4,4,2-14,40.43978811,-79.95943557
+233,2115162682,TS33,Amberson Ave - Fifth Ave,24 Hr stop and go,,Fixed,Shadyside,8,14,42003070300,3,14,4,2-26,40.44769411,-79.93884107
+234,584750453,TS330,Forbes Ave - Meyran Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.4405848,-79.9583377
+235,305034168,TS331,Forbes Ave - Miltenberger St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-1,40.43750782,-79.98143453
+236,981294975,TS332,Forbes Ave - Morewood Ave,24 Hr stop and go,FORBES AVE,Semi Actuated,Squirrel Hill North,8,14,42003140100,3,14,4,2-26,40.44465516,-79.94300496
+237,2037977315,TS333,Forbes Ave - Murray Ave,24 Hr stop and go,FORBES AVE,Fixed / Ped Actuated,Squirrel Hill North,5,14,42003140300,3,14,4,2-18,40.43806403,-79.92298697
+238,280750047,TS334,Forbes Ave - Pride St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-4,40.43766567,-79.98514349
+239,1620044783,TS335,Forbes Ave - Ross St,24 Hr stop and go,ROSS ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43823557,-79.99605899
+240,783037922,TS336,Forbes Ave - Schenley Dr Ext,24 Hr stop and go,FORBES AVE,Semi Actuated,North Oakland,8,4,42003982200,3,4,4,2-8,40.44353772,-79.95212185
+241,244153097,TS337,Forbes Ave - Shady Ave,24 Hr stop and go,FORBES AVE,Fixed / Ped Actuated,Squirrel Hill South,5,14,42003140800,3,14,4,2-18,40.43804856,-79.91936228
+242,513072102,TS338,Diamond St - Forbes Ave - Sixth Ave,24 Hr stop and go,SIXTH AVE,Fixed,Bluff,6,1,42003020100,6,1,2,1-4,40.4380461,-79.99428817
+243,402272722,TS339,Forbes Ave - Smithfield St,24 Hr stop and go,SMITHFIELD ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43942114,-79.99909704
+244,1009690203,TS34,Anderson St - Canal St - Stockton Ave,24 Hr stop and go,,Fixed / Ped Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-20,40.45078354,-80.00134366
+245,2012610053,TS340,Forbes Ave - Stevenson St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-4,40.43773946,-79.98653669
+246,1761971183,TS341,Forbes Ave - Wightman St,24 Hr stop and go,FORBES AVE,Fixed,Squirrel Hill North,5,14,42003140100,3,14,4,2-8,40.43804723,-79.92771746
+247,1560977632,TS342,Forbes Ave - Wood St,24 Hr stop and go,WOOD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.44009704,-80.00082979
+248,1400594827,TS343,Fort Duquesne Blvd - 9th St,24 Hr stop and go,FORT DUQUESNE BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44515286,-79.99899837
+249,668200088,TS345,Fort Duquesne Blvd - 7th St,24 Hr stop and go,FORT DUQUESNE BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44456329,-80.00085706
+250,843007644,TS346,Fort Duquesne Blvd - 6th St,24 Hr stop and go,FORT DUQUESNE BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44409286,-80.00269388
+251,901056335,TS347,Fort Duquesne Blvd - Stanwix St,24 Hr stop and go,FORT DUQUESNE BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44346604,-80.00467863
+252,1540656064,TS348,Fort Duquesne Blvd - 10th St,24 hour stop and go,FORT DUQUESNE BLVD,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44644249,-79.99653557
+253,281471273,TS349,Fort Duquesne Blvd - 10th St Bypass,24 Hr stop and go,,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44579196,-79.99828418
+254,1763708638,TS35,Anderson St - General Robinson St,1:00-6:00,,Fixed,North Shore,1,23,42003563200,6,23,1,1-20,40.44895016,-80.00074422
+255,851647010,TS350,Fort Pitt Blvd - Grant St,24 Hr stop and go,,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43614394,-79.99899901
+256,2036025722,TS351,Fort Pitt Blvd - Market St,24 Hr stop and go,FORT PITT BLVD,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43803435,-80.00437356
+257,531364141,TS352,Fort Pitt Blvd - Smithfield St,24 Hr stop and go,FORT PITT BLVD,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43672777,-80.00089481
+258,1329434032,TS353,Fort Pitt Blvd - Stanwix St,24 Hr stop and go,FORT PITT BLVD,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43857088,-80.00578676
+259,1653014619,TS354,Fort Pitt Blvd - Wood St,24 Hr stop and go,FORT PITT BLVD,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43741187,-80.00262823
+260,1376495411,TS355,Liberty Ave - 40th St,00:00 - 06:00,LIBERTY AVE,Fixed,Bloomfield,7,6,42003060300,2,6,5,3-6,40.46282471,-79.95728779
+261,1328315278,TS356,Penn Ave - 40th St,24 Hr stop and go,PENN AVE,Semi Actuated,Central Lawrenceville,7,6,42003090200,2,6,2,3-6,40.46519029,-79.95796426
+262,146457270,TS357,Penn Ave - Friendship Ave - 45th St,24 Hr stop and go,PENN AVE,Fixed,Central Lawrenceville,7,9,42003090200,2,9,2,3-6,40.4661503,-79.95230993
+263,1478025335,TS358,Penn Ave - 44th St,24 Hr stop and go,PENN AVE,Fixed,Central Lawrenceville,7,9,42003090200,2,9,5,3-6,40.46593909,-79.95356358
+264,1301651730,TS359,Forward Ave - Murray Ave - Pocussett St,24 Hr stop and go,,Fully Actuated,Squirrel Hill South,5,14,42003141400,3,14,4,2-21,40.4297459,-79.92348802
+265,1572648454,TS36,Anderson St - Lacock St,24 Hr stop and go,ANDERSON ST,Semi Actuated,North Shore,1,23,42003563200,6,23,1,1-20,40.44976229,-80.00101528
+266,1652910915,TS360,Forward Ave -  Shady Ave,00:00 - 06:00,FORWARD AVE,Fixed,Squirrel Hill South,5,14,42003141400,3,14,4,2-21,40.42917853,-79.921202
+267,892191634,TS361,Forward Ave - Tilbury Ave,00:00 - 06:00,FORWARD AVE,Fixed,Squirrel Hill South,5,14,42003141400,3,14,4,2-21,40.42844905,-79.91851737
+268,814711193,TS362,Fourth Ave - Grant St,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43805044,-79.99770279
+269,223602636,TS364,Fourth Ave - Ross St,19:00-6:00,FOURTH AVE,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43758962,-79.99646379
+270,334986552,TS365,Fourth Ave - Smithfield St,00:00 - 06:00,SMITHFIELD ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43873285,-79.99954712
+271,982280278,TS366,Fourth Ave - Wood St,24 Hr stop and go,WOOD ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43938732,-80.00130519
+272,1481260664,TS367,Frankstown Ave - Homewood Ave,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45740448,-79.896301
+273,1892564004,TS368,Frankstown Ave - Lang Ave,24 Hr stop and go,FRANKSTOWN RD,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45791392,-79.89853153
+274,1048745279,TS369,Frankstown Ave - Lincoln Ave - Lowell St,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Larimer,9,12,42003120800,2,12,5,3-10,40.46043416,-79.91379365
+275,1567904674,TS37,Ansley St - Euclid Ave,00:00 - 06:00,,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.4635026,-79.92724348
+276,2026511400,TS370,Frankstown Ave - Murtland St,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood South,9,12,42003130300,2,12,5,3-17,40.45849769,-79.9011181
+277,1062261996,TS371,Frankstown Ave - Standard Ave,,FRANKSTOWN AVE,Fixed,East Hills,9,13,42003130600,2,13,5,3-17,40.45710168,-79.87768918
+278,1178273823,TS372,Frankstown Ave - Woods Ave,00:00 - 06:00,FRANKSTOWN AVE,Fixed,East Hills,9,13,42003523100,2,13,5,3-17,40.45985557,-79.87385867
+279,1192650330,TS373,Friendship Ave - Gross St,23:00 - 06:00,FRIENDSHIP AVE,Fixed,Bloomfield,7,8,42003080900,2,8,5,3-6,40.4624565,-79.94448393
+280,1666706610,TS374,Friendship Ave - Negley Ave,24 Hr stop and go,S NEGLEY AVE,Fixed,East Liberty,7,8,42003111500,2,8,5,3-23,40.46068636,-79.93240195
+281,865247784,TS375,Friendship Ave - Roup Ave,23:00 - 06:00,FRIENDSHIP AVE,Fixed,Friendship,7,8,42003080700,2,8,5,3-23,40.46161677,-79.93506353
+282,1546796693,TS376,Friendship Ave - Taylor St,23:00 - 06:00,FRIENDSHIP AVE,Fixed,Bloomfield,7,9,42003090300,2,9,5,3-6,40.46400758,-79.94962949
+283,1660030442,TS377,Galveston Ave - North Ave,23:00-6:00,NORTH AVE,Fixed,Central Northside,1,22,42003220600,1,22,1,1-7,40.45355099,-80.01705439
+284,207963309,TS378,Galveston Ave - Western Ave,23:00-6:00,WESTERN AVE,Fixed,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45196954,-80.01652856
+285,1231569867,TS379,General Robinson St - Sandusky St,24 Hr stop and go,SANDUSKY ST,Fixed,North Shore,1,22,42003563200,6,22,1,1-20,40.4486344,-80.00228057
+286,381384950,TS38,Ansonia Pl - Saw Mill Run Blvd,01:00 - 05:00,SAW MILL RUN BLVD,Fixed,Brookline,4,32,42003320600,5,32,6,4-25,40.39449219,-79.99732764
+287,2111342855,TS381,Glass Run Rd - Mifflin Rd,24 Hr stop and go,MIFFLIN RD,Fully Actuated,Hays,5,31,42003562900,3,31,4,4-20,40.38980358,-79.93336274
+288,2034252664,TS382,Glenwood Ave - Second Ave,23:00 - 06:00,SECOND AVE,Fixed,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40101609,-79.9394151
+289,12135633,TS385,Graham St - Penn Ave (OSM),23:00 - 06:00,PENN AVE,Fixed,Garfield,9,8,42003111400,2,8,5,3-23,40.46474199,-79.93511132
+290,1828107748,TS386,Grandview Ave - P J Mcardle Rdwy - Merrimac St,24 Hr stop and go,,Fully Actuated,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43535757,-80.01293658
+291,1905858304,TS387,Grant St - Seventh Ave,24 Hr stop and go,,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44214583,-79.99498485
+292,1423513398,TS388,Grant St - Sixth Ave,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44079085,-79.99587902
+293,699752046,TS389,Grant St - Third Ave,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43752955,-79.99805245
+294,690981318,TS39,Antrim St - California Ave,23:00-6:00,CALIFORNIA AVE,Fixed,Brighton Heights,1,27,42003270300,1,27,1,1-14,40.4752685,-80.03957568
+295,1403772108,TS390,Bartlett Rd - Greenfield Rd - Panther Hollow Rd,24 Hr stop and go,PANTHER HOLLOW RD,Fully Actuated,Squirrel Hill South,5,14,42003980500,3,14,4,2-21,40.4328561,-79.93652077
+296,130989722,TS391,Greenwood St - Morningside Ave,23:00 - 06:00,MORNINGSIDE AVE,Fixed,Morningside,7,10,42003101400,2,10,5,3-7,40.48642738,-79.92726777
+297,592917029,TS392,Hamilton Ave - Homewood Ave,24 Hr stop and go,HAMILTON AVE,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45463615,-79.89752804
+298,1941303135,TS394,Hazelwood Ave - Second Ave,24 Hr stop and go,SECOND AVE,Fixed,Hazelwood,5,15,42003562900,3,15,4,2-13,40.41132046,-79.94472643
+299,1668255726,TS396,Herron Ave - Liberty Ave,24 Hr stop and go,,Fixed,Lower Lawrenceville,7,6,42003060300,6,6,2,3-2,40.46160079,-79.96721246
+300,2020887860,TS397,East Ohio St - 31st St,,EAST OHIO ST,Fully Actuated,Troy Hill,1,24,42003240600,1,24,1,1-1,40.46475297,-79.97965875
+301,1467299341,TS399,Highland Ave - Station St,00:00 - 06:00,STATION ST,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46376818,-79.9238233
+302,1684501876,TS4,Aiken Ave - Fifth Ave,24 Hr stop and go,,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-17,40.4484079,-79.93420838
+303,605285201,TS40,Arch St - North Ave,23:00-6:00,NORTH AVE,Fixed,Allegheny Center,1,22,42003220600,1,22,1,1-21,40.45509863,-80.00863069
+304,1392826003,TS400,Centre Ave - Highland Ave,00:00 - 06:00,CENTRE AVE,Semi Actuated,East Liberty,8,7,42003111500,2,7,4,3-11,40.45996213,-79.92504598
+305,1926852084,TS401,Highland Ave - Stanton Ave,24 Hr stop and go,N HIGHLAND AVE,Fixed,Highland Park,9,11,42003110600,2,11,5,3-9,40.46969795,-79.92102809
+306,2102768392,TS402,Highland Ave - Walnut St,24 Hr stop and go,S HIGHLAND AVE,Fixed,Shadyside,8,7,42003070600,2,7,4,3-11,40.45416919,-79.92534398
+307,2030833239,TS403,Hobart St - Murray Ave,,MURRAY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43373699,-79.9229572
+308,1053130876,TS404,Hobart St - Wightman St,01:00 - 06:00,WIGHTMAN ST,Fixed,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43261552,-79.9275637
+309,484820394,TS405,Homewood Ave - Kelly St,24 Hr stop and go,N HOMEWOOD AVE,Fixed / Ped Actuated,Homewood South,9,13,42003130300,2,13,5,3-17,40.45553415,-79.89702734
+310,867584605,TS406,Homewood Ave - Penn Ave,stop and go,PENN AVE,Fully Actuated,Point Breeze North,9,14,42003140500,3,14,4,3-14,40.44918928,-79.90131904
+311,168825978,TS407,Homewood Ave - Thomas Blvd,24 Hr stop and go,THOMAS BLVD,Fixed,Point Breeze North,9,14,42003140500,2,14,4,3-14,40.45093267,-79.90008923
+312,661451491,TS408,Horace - Liberty Brg - Ramp B,24 Hr stop and go,LIBERTY BRG,Fully Actuated,Central Business District,6,1,42003020100,6,1,2,1-4,40.43431951,-79.99578039
+313,435587464,TS409,Independence St - Mccartney St - Wabash St,23:00-6:00,WABASH ST,Fixed,West End,2,20,42003562600,5,20,6,1-17,40.43606358,-80.03385549
+314,717145004,TS410,Ingram Ave - Steuben St - Thornburg Brg - Woodmere Dr,24 Hr stop and go,STEUBEN ST,Fully Actuated,Fairywood,,28,42003563000,5,28,6,1-16,40.44056424,-80.08047407
+315,1685422502,TS411,Interboro Ave - Mifflin Rd,24 Hr stop and go,MIFFLIN RD,Fully Actuated,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.36972011,-79.91292709
+316,684604920,TS412,Kelly St - Lang Ave,24 Hr stop and go,KELLY ST,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45604346,-79.89925916
+317,1871687298,TS413,Kirkpatrick St - Webster Ave,24 Hr stop and go,WEBSTER AVE,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-1,40.4473486,-79.97790305
+318,252273851,TS414,Kirkpatrick St - Wylie Ave,24 Hr stop and go,KIRKPATRICK ST,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-1,40.44593691,-79.97680155
+319,2023651434,TS415,Centre Ave - Kirkwood St,00:00 - 06:00,CENTRE AVE,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46122419,-79.92235772
+320,169526237,TS416,Lacock St - Sandusky St,1:00-6:00,SANDUSKY ST,Fixed,North Shore,1,22,42003563200,6,22,1,1-20,40.44949491,-80.00256136
+321,886187341,TS417,Lang Ave - Penn Ave,stop and go,PENN AVE,Fully Actuated,Point Breeze North,9,14,42003140500,3,14,4,3-14,40.45000592,-79.90376403
+322,1904113130,TS419,Highland Dr - Washington Blvd,24 Hr stop and go,WASHINGTON BLVD,Fully Actuated,Highland Park,9,11,42003980100,2,11,5,3-12,40.47422407,-79.90827834
+323,1361587711,TS42,Arch St - Ridge Ave,23:00 - 06:00,RIDGE AVE,Fully Actuated,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45199538,-80.00873435
+324,32436915,TS420,Lemington Ave - Lincoln Ave,24 Hr stop and go,LINCOLN AVE,Fixed,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,3-18,40.46875735,-79.89605025
+325,298195580,TS422,Liberty Ave - Market St - 6th St,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,1,42003020100,6,1,2,1-3,40.44193148,-80.00179801
+326,665159596,TS423,Liberty Ave - Millvale Ave,24 Hr stop and go,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080400,2,8,5,3-6,40.4600116,-79.94596588
+327,1827112239,TS424,Liberty Ave - Ninth St,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.4429442,-79.99797682
+328,223715294,TS426,Liberty Ave - Pearl St,00:00 to 06:00,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080200,2,8,5,3-6,40.46210054,-79.9498805
+329,2135544262,TS427,Liberty Tunl - Saw Mill Run Blvd - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fully Actuated,Beltzhoover,3,18,42003562400,5,18,3,4-28,40.41420607,-80.00960013
+330,1618769366,TS429,Liberty Ave - Seventh Ave,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44308356,-79.99732266
+331,2007331390,TS43,Arlington Ave - Brownsville Rd - S 18th St,24 Hr stop and go,BROWNSVILLE RD,Fixed,Mount Oliver Borough,3,0,42003170600,0,0,3,Mt Oliver,40.41761027,-79.98645112
+332,1317007354,TS430,Liberty Ave - 7th St - Sixth Ave,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44239214,-79.99998495
+333,1115003096,TS431,Liberty Ave - 16th St,24 Hr stop and go,LIBERTY AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-3,40.44822892,-79.98689348
+334,1300143665,TS432,Liberty Ave - Smithfield St,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44331783,-79.9965328
+335,988626690,TS433,Liberty Ave -10th St - William Penn Pl,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44365812,-79.99524041
+336,1300803184,TS434,Liberty Brg -  Liberty Tunl - P J Mcardle Rdwy,24 Hr stop and go,LIBERTY TUNL,Fully Actuated,Mount Washington,3,18,42003191400,5,18,3,4-27,40.42915463,-79.99927134
+337,1109342238,TS435,Liberty Ave - 31st St,24 Hr stop and go,LIBERTY AVE,Fixed,Strip District,7,6,42003020300,6,6,2,3-2,40.45923037,-79.97068891
+338,1186899788,TS437,Liberty Ave - 28th St,24 Hr stop and go,LIBERTY AVE,Fixed,Polish Hill,7,6,42003020300,6,6,2,2-25,40.45630182,-79.97495012
+339,1286731887,TS438,Liberty Ave - 25th St,10:00 PM to 6:00 AM,LIBERTY AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-25,40.45338784,-79.97918628
+340,666914042,TS439,Liberty Ave - 21st St,24 Hr stop and go,LIBERTY AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-3,40.45113576,-79.98246049
+341,1781568461,TS44,Arlington Ave - Carson St,24 Hr stop and go,E CARSON ST,Fully Actuated,South Shore,3,17,42003980700,5,17,3,4-2,40.43095447,-80.00148792
+342,1733775106,TS440,Liberty Ave - Wood St,24 Hr stop and go,LIBERTY AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44263291,-79.99915291
+343,1714252530,TS441,Library Rd - McNeilly Rd,24 Hr stop and go,LIBRARY RD,Fully Actuated,Overbrook,4,32,42003320700,5,32,3,4-25,40.37788676,-80.00375674
+344,1087175753,TS442,Library Rd - Saw Mill Run Blvd,24 Hr stop and go,SAW MILL RUN BLVD,Fixed,Overbrook,4,32,42003320700,5,32,3,4-25,40.38230847,-79.99595971
+345,2085644210,TS443,Lilac St - Murray Ave,00:00 - 06:00,MURRAY AVE,Fixed,Greenfield,5,15,42003151700,3,15,4,2-15,40.42321465,-79.92865526
+346,841555113,TS444,Lincoln Ave - Meadow St,24 Hr stop and go,LINCOLN AVE,Fixed,Larimer,9,12,42003120800,2,12,5,3-12,40.461064,-79.90979166
+347,968857587,TS445,Lincoln Ave - Shetland St,0:00-7:00,LINCOLN AVE,Fixed,Larimer,9,12,42003120800,2,12,5,3-12,40.46160786,-79.90792535
+348,1534140968,TS446,Linden Ave - Penn Ave,stop and go,PENN AVE,Fully Actuated,Point Breeze,8,14,42003140400,3,14,4,3-14,40.45263797,-79.9103836
+349,1505834885,TS448,East Ohio St - Madison Ave,,,Actuated,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45416882,-79.99683088
+350,883537589,TS449,Main St - Penn Ave,24 Hr stop and go,PENN AVE,Fixed,Bloomfield,7,9,42003090300,2,9,5,3-6,40.46565955,-79.9551871
+351,1656142287,TS45,Arlington Ave - P J Mcardle Rdwy,24 Hr stop and go,ARLINGTON AVE,Fully Actuated,South Side Slopes,3,18,42003170600,3,18,3,4-2,40.42899827,-79.99836422
+352,1106146604,TS450,Main St - Sanctus St,23:00-6:00,,Fixed,West End,2,20,42003562600,5,20,6,1-17,40.44162188,-80.03291068
+353,1328076333,TS451,Main St - Saw Mill Run Rd,24 Hr stop and go,SAW MILL RUN BLVD,Fixed,Duquesne Heights,2,20,42003191100,5,20,3,1-17,40.44326769,-80.02907269
+354,1996254180,TS452,Main St - Wabash St,24 Hr stop and go,MAIN ST,Fixed,West End,2,20,42003562600,5,20,6,1-17,40.44092587,-80.03480807
+355,1621194912,TS453,West End Brg - Western Ave Ramp,24 Hr stop and go,WESTERN AVE RAMP,Fully Actuated,Chateau,6,21,42003980600,1,21,1,1-8,40.4497931,-80.02494399
+356,2117538567,TS455,Marshall Ave - Perrysville Ave,24 Hr stop and go,PERRYSVILLE AVE,Semi Actuated,Perry South,1,26,42003261500,1,26,1,1-23,40.47495788,-80.011252
+357,330802691,TS456,Mathilda St - Penn Ave (OSM),24 Hr stop and go,PENN AVE,Semi Actuated,Central Lawrenceville,7,8,42003981000,2,8,5,3-6,40.46547443,-79.94644936
+358,1214625585,TS457,Maytide St - Overbrook Blvd - Saw Mill Run Blvd,24 Hr stop and go,SAW MILL RUN BLVD,Fully Actuated,Overbrook,4,32,42003320400,5,32,3,4-25,40.38473459,-79.99501149
+359,47255719,TS459,Merrimac St - Virginia Ave,24 Hr stop and go,MERRIMAC ST,Fixed,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43172284,-80.01370403
+360,517078947,TS46,Arlington Ave - Warrington Ave,24 Hr stop and go,ARLINGTON AVE,Fully Actuated,Allentown,3,18,42003180300,5,18,3,4-6,40.42181615,-79.99232785
+361,465375336,TS460,Midwood Ave - Saw Mill Run Blvd,01:00 - 05:00,SAW MILL RUN BLVD,Semi Actuated,Overbrook,4,32,42003320600,5,32,6,4-25,40.39299803,-79.99734748
+362,664804940,TS462,Millvale Ave - Penn Ave,24 Hr stop and go,PENN AVE,Fixed,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46530495,-79.94523453
+363,1432346625,TS463,Monitor St - Shady Ave,23:00 - 06:00,SHADY AVE,Fixed,Squirrel Hill South,5,14,42003141400,3,14,4,2-15,40.42533368,-79.92388933
+364,1792590032,TS464,Monterey St - North Ave,23:00-6:00,NORTH AVE,Fixed,Allegheny Center,1,22,42003562700,1,22,1,1-21,40.45434202,-80.01261199
+365,477507792,TS467,Muriel St - S 10th St,03:00 - 06:00,S 10TH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.43003734,-79.98864621
+366,717531239,TS468,Murray Ave - Northumberland St,00:00 - 06:00,MURRAY AVE,Fixed,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44142804,-79.92337385
+367,1499185748,TS469,Murray Ave - Phillips Ave,,MURRAY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43236166,-79.92314513
+368,240886970,TS47,Armstrong Tunl - Forbes Ave,23:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,6,1,2,2-4,40.43797868,-79.99205468
+369,162779170,TS471,Negley Ave - Penn Ave,24 Hr stop and go,PENN AVE,Fully Actuated,Garfield,9,8,42003111400,2,8,5,3-8,40.46350122,-79.93067622
+370,641314959,TS472,Negley Ave - Rippey St,00:00 - 06:00,N NEGLEY AVE,Semi Actuated,East Liberty,9,11,42003111400,2,11,5,3-8,40.46661886,-79.92880014
+371,1222635389,TS473,Negley Ave - Rural St,00:00 - 06:00,N NEGLEY AVE,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.4656189,-79.92940372
+372,960549217,TS474,Negley Ave - Stanton Ave,24 Hr stop and go,N NEGLEY AVE,Semi Actuated,East Liberty,9,11,42003111300,2,11,5,3-9,40.47152986,-79.92628023
+373,545142627,TS475,Negley Ave - Walnut St,24 Hr stop and go,S NEGLEY AVE,Fixed,Shadyside,8,7,42003070300,2,7,4,3-11,40.4520698,-79.93098238
+374,919923400,TS476,Negley Ave - Wilkins Ave,24 Hr stop and go,WILKINS AVE,Fixed,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44402986,-79.92601074
+375,1015329897,TS477,Negley Run Blvd - Washington Blvd,24 Hr stop and go,WASHINGTON BLVD,Fully Actuated,Lincoln-Lemington-Belmar,9,12,42003120300,2,12,5,3-12,40.47028904,-79.90862517
+376,439802635,TS478,Neptune St - Wabash St,24 Hr stop and go,WABASH ST,Fixed / Ped Actuated,West End,2,20,42003562600,5,20,6,1-17,40.44020778,-80.03436282
+377,1988880510,TS479,Ninth St - Penn Ave,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44375043,-79.99834871
+378,1170469070,TS48,Armstrong Tunl - Second Ave - S 10th St,24 Hr stop and go,SECOND AVE,Fully Actuated,Bluff,6,1,42003010300,3,1,2,2-4,40.43448854,-79.98982211
+379,713723195,TS480,Noblestown Rd - Poplar St,24 Hr stop and go,NOBLESTOWN RD,Fully Actuated,Westwood,,28,42003563100,5,28,6,1-19,40.42794621,-80.05377648
+380,341538404,TS481,North Ave - Palo Alto St,23:00-6:00,NORTH AVE,Fixed,Central Northside,1,22,42003220600,1,22,1,1-21,40.45472516,-80.01059882
+381,648684866,TS482,Northumberland St - Shady Ave,00:00 - 06:00,SHADY AVE,Fully Actuated,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44182297,-79.91990548
+382,1849869181,TS483,Northumberland St - Wightman St,00:00 - 06:00,WIGHTMAN ST,Fixed,Squirrel Hill North,8,14,42003140100,3,14,4,2-8,40.44090939,-79.9277874
+383,1527793865,TS487,Oliver Ave - Smithfield St,24 Hr stop and go,SMITHFIELD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.44080925,-79.99816309
+384,1552058558,TS488,Oliver Ave - William Penn Pl,00:00 - 06:00,OLIVER AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.44045593,-79.9972259
+385,1551451073,TS489,Oliver Ave - Wood St,24 Hr stop and go,WOOD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44145648,-79.99991917
+386,649032132,TS49,Atlantic Ave - Baum Blvd - Liberty Ave,24 Hr stop and go,,Fully Actuated,Bloomfield,7,8,42003080600,2,8,5,3-23,40.45663481,-79.93964302
+387,1708291684,TS490,Oranmore St - Stanton Ave,23:00 - 06:00,STANTON AVE,Fixed,Stanton Heights,9,10,42003101800,2,10,5,3-7,40.48059626,-79.93478057
+388,433363363,TS492,Pauline Ave - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fixed / Ped Actuated,Beechview,4,19,42003192000,5,19,6,4-26,40.40174845,-80.02217442
+389,115917577,TS493,Penn Ave - 7th St,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44323848,-80.00026298
+390,724061015,TS494,Penn Ave - Shady Ave,24 Hr stop and go,PENN AVE,Fully Actuated,Shadyside,8,7,42003111500,2,7,4,3-11,40.45981376,-79.92083348
+391,849315938,TS495,Penn Ave - 16th St (OSM),24 Hr stop and go,PENN AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-3,40.44882448,-79.98750719
+392,1868448111,TS496,Penn Ave - 6th St,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44274962,-80.00215282
+393,407228916,TS497,Penn Ave - Stanwix St,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44222092,-80.00411724
+394,183014806,TS498,Penn Ave - Tenth St,24 Hr stop and go,PENN AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44446444,-79.99561272
+395,982547027,TS499,Penn Ave - 31st St,24 Hr stop and go,PENN AVE,Fixed,Strip District,7,6,42003020300,6,6,2,3-2,40.45980759,-79.97137701
+396,1751436229,TS5,Aiken Ave - Friendship Ave,23:00 - 6:00,,Fixed,Bloomfield,7,8,42003080600,2,8,5,3-23,40.46190619,-79.93762711
+397,1802655427,TS50,Atlantic Ave - Friendship Ave,23:00 - 06:00,FRIENDSHIP AVE,Fixed,Bloomfield,7,8,42003080600,2,8,5,3-23,40.46200445,-79.93895458
+398,515948848,TS500,Penn Ave - 12th St,0:00-6:00,PENN AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-3,40.44577122,-79.99239141
+399,306346190,TS501,Penn Ave - 28th St (OSM),24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,6,42003020300,6,6,2,2-25,40.45686595,-79.97561757
+400,391153997,TS503,Penn Ave - 22nd St,24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-25,40.45227157,-79.98228466
+401,441037240,TS504,Penn Ave - 26th St,24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-25,40.45491247,-79.97844811
+402,484613315,TS505,Penn Ave - 30th St,24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,6,42003020300,6,6,2,3-2,40.45882361,-79.97278431
+403,2034847747,TS506,Penn Ave - 32nd St,24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,6,42003020300,6,6,2,3-2,40.46077997,-79.9699522
+404,278907631,TS507,Centre Ave - Penn Ave,24 Hr stop and go,CENTRE AVE,Semi Actuated,East Liberty,8,7,42003111500,2,7,4,3-8,40.4606639,-79.92272567
+405,2066168143,TS508,Euclid Ave - Penn Ave,24 Hr stop and go,,Semi Actuated,East Liberty,9,11,42003111500,2,11,5,3-8,40.46251901,-79.92782556
+406,1876425348,TS509,Phillips Ave - Shady Ave - Tilbury Ave,24 Hr stop and go,SHADY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43230447,-79.91825545
+407,1292633636,TS51,Atlantic Ave - Penn Ave,23:00 - 06:00,PENN AVE,Fixed,Bloomfield,7,10,42003080900,2,10,5,3-23,40.46456981,-79.93861094
+408,1053879201,TS510,Phillips Ave - Wightman St,23:00 - 06:00,WIGHTMAN ST,Fixed,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43103037,-79.92749727
+409,564680432,TS511,Pioneer Ave - Stetson St,24 Hr stop and go,PIONEER AVE,Fixed / Ped Actuated,Brookline,4,19,42003191700,5,19,6,4-26,40.4056453,-80.01503357
+410,1741780708,TS512,Ellsworth Ave - Shady Ave,00:00 - 06:00,SHADY AVE,Fully Actuated,Shadyside,8,7,42003070800,2,7,4,3-11,40.45920146,-79.92207464
+411,998352674,TS514,Ross St - Second Ave,24 Hr stop and go,ROSS ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43658907,-79.9971182
+412,603591335,TS515,Sarah St - S 12th St,03:00 - 06:00,SARAH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42774644,-79.98636265
+413,1984116311,TS516,Sarah St - S 20th St,03:00 - 06:00 Sun - Sat,SARAH ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.4276767,-79.97773139
+414,1479351755,TS517,Sarah St - S 22nd St,03:00 - 06:00 Sun - Sat,SARAH ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42750202,-79.97473298
+415,180737034,TS519,Sarah St - S 23rd St,03:00 - 06:00,SARAH ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42741386,-79.97313877
+416,569863679,TS52,Atwood St - Bates St,00:00 - 06:00,BATES ST,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-11,40.43812573,-79.95393221
+417,1344463389,TS522,Saw Mill Run Blvd - Warrington Ave,24 Hr stop and go,SAW MILL RUN BLVD,Fully Actuated,Mount Washington,4,19,42003191500,5,19,3,4-28,40.41504308,-80.01138948
+418,1842296611,TS523,Saw Mill Run Blvd - Whited St,24 Hr stop and go,SAW MILL RUN BLVD,Semi Actuated,Brookline,4,32,42003320600,5,32,6,4-25,40.39628567,-79.99819723
+419,1305271765,TS524,Saw Mill Run Blvd - Woodruff St,24 Hr stop and go,SAW MILL RUN BLVD,Semi Actuated,Mount Washington,2,19,42003191400,5,19,3,4-1,40.42583287,-80.0198927
+420,1383055199,TS526,Seventh Ave - Smithfield St,24 Hr stop and go,SMITHFIELD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44283845,-79.99684434
+421,1449482414,TS527,Seventh Ave - William Penn Pl,24 Hr stop and go,SEVENTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44247733,-79.99582196
+422,1169419580,TS528,Shady Ave - Walnut St,24 Hr stop and go,SHADY AVE,Fixed,Shadyside,8,7,42003070600,2,7,4,3-11,40.45586968,-79.92254876
+423,1362229814,TS529,Shady Ave - Wilkins Ave,24 Hr stop and go,WILKINS AVE,Fixed,Point Breeze,8,14,42003140400,3,14,4,2-18,40.44385912,-79.92051591
+424,842420919,TS53,Atwood St - Fifth Ave,24 Hr stop and go,FIFTH AVE,Fixed,West Oakland,3,4,42003040500,3,4,4,2-14,40.44177634,-79.95847194
+425,1881972314,TS530,Shiloh St - Virginia Ave,23:00 - 06:00,VIRGINIA AVE,Fixed,Mount Washington,2,19,42003191400,5,19,3,4-27,40.42947386,-80.00733989
+426,1982986125,TS531,Sixth Ave - Smithfield St,24 Hr stop and go,SMITHFIELD ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44146441,-79.99773478
+427,993653062,TS532,Sixth Ave - William Penn Pl,24 Hr stop and go,SIXTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.4411131,-79.9967689
+428,1571050793,TS533,Sixth Ave - Wood St,24 Hr stop and go,SIXTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44210758,-79.99950152
+429,157250934,TS538,Smithfield St - Third Ave,00:00 - 06:00,SMITHFIELD ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43821988,-79.99989118
+430,419321724,TS539,Stanwix St - Third Ave,24 Hr stop and go,STANWIX ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.4400486,-80.00472299
+431,305646355,TS54,Atwood St - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.44109818,-79.957629
+432,1442572187,TS540,Third Ave - Wood St,24 Hr stop and go,WOOD ST,Fixed,Central Business District,6,1,42003020100,6,1,2,1-4,40.43888636,-80.00164022
+433,908687903,TS541,Wightman St - Wilkins Ave,24 Hr stop and go,WILKINS AVE,Fixed,Squirrel Hill North,8,14,42003140200,3,14,4,2-8,40.44412923,-79.92792818
+434,1918624202,TS542,Allegheny Ave - Reedsdale St,24 Hr stop and go,,Fully Actuated,North Shore,1,22,42003980600,6,22,1,1-8,40.44804494,-80.017829
+435,1980726487,TS543,Greenfield Ave - Irvine St - Saline St,24 Hr stop and go,IRVINE ST,Fully Actuated,Hazelwood,5,15,42003562900,3,15,4,2-12,40.42488272,-79.95191128
+436,781685585,TS544,Allegheny Ave - North Shore Dr,24 Hr stop and go,,Fixed / Ped Actuated,North Shore,1,21,42003980600,6,21,1,1-8,40.44680774,-80.01746618
+437,446686173,TS548,General Robinson St - Mazeroski Way,24 Hr stop and go,GENERAL ROBINSON ST,Fully Actuated,North Shore,1,22,42003981200,6,22,1,1-7,40.44769384,-80.00767282
+438,989089016,TS549,Lacock St - Reedsdale St - Mazeroski Way,24 Hr stop and go,,Fully Actuated,North Shore,1,22,42003981200,6,22,1,1-7,40.44834238,-80.00818655
+439,1294005697,TS55,Auditorium- Retired,24 Hr Stop & Go,BEDFORD AVE,Fully Actuated,Central Business District,6,3,42003030500,6,3,2,2-4,40.44280671,-79.99097726
+440,1316852736,TS550,Forbes Ave - Jumonville St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-1,40.43734699,-79.97773582
+441,1775114305,TS551,Forbes Ave - Oakland Ave,24 Hr stop and go,FORBES AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.44157208,-79.9569738
+442,694384663,TS552,Braddock Ave - Frankstown Ave,24 Hr stop and go,FRANKSTOWN AVE,Fixed,Homewood South,9,13,42003130400,2,13,5,3-17,40.45596563,-79.89002402
+443,1920641743,TS553,Lebanon Rd - Mifflin Rd,24 Hr stop and go,MIFFLIN RD,Fully Actuated,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.37961468,-79.9255102
+444,232081543,TS554,Fifth Ave - Jumonville St,00:00 - 06:00,FIFTH AVE,Fixed,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.43824216,-79.9776679
+445,359836640,TS555,Allequippa St - Centre Ave - University A Dr,24 Hr stop and go,CENTRE AVE,Fully Actuated,North Oakland,8,4,42003562000,3,4,4,2-22,40.44845708,-79.95847682
+446,1733523558,TS557,Beaver Ave - Island Ave,23:00-6:00,BEAVER AVE,Fully Actuated,Chateau,6,27,42003980900,1,27,1,1-8,40.4620696,-80.03213431
+447,1844638107,TS558,Doerrville Ave - Hillburn St - Mifflin Rd,24 Hr stop and go,MIFFLIN RD,Semi Actuated,New Homestead,5,31,42003310300,3,31,4,4-20,40.38329164,-79.93047302
+448,203551117,TS559,Brookline Blvd - Merrick Ave - Whited St,24 Hr stop and go,BROOKLINE BLVD,Fixed,Brookline,4,19,42003320600,5,19,6,4-26,40.39216409,-80.01314024
+449,1992239442,TS56,AUDITORIUM  CENTRE  MARIO_LEMIEUX,24 Hr Stop & Go,CENTRE AVE,Fixed,Central Business District,6,3,42003020100,6,3,2,2-4,40.44049464,-79.98928816
+450,1294357818,TS560,Mansion St - Second Ave,23:00 - 06:00,SECOND AVE,Fixed,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40371976,-79.94231296
+451,1177376251,TS561,Centre Ave - Herron Ave - Robinson St Ext,0:00-6:00,CENTRE AVE,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-5,40.44878542,-79.96487367
+452,988911897,TS562,Grant St - Strawberry Way,24 Hr stop and go,GRANT ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44145635,-79.99543487
+453,555635447,TS563,Butler St - One Wild Pl,24 Hr stop and go,WASHINGTON BLVD,Fully Actuated,Highland Park,7,11,42003980100,2,11,5,3-15,40.48734851,-79.91799216
+454,371613703,TS564,California Ave - Marshall Ave,24 Hr stop and go,,Fully Actuated,California-Kirkbride,6,21,42003210700,1,21,1,1-9,40.46210894,-80.03073672
+455,1406738155,TS566,Mckees Rocks Brg - Ohio River Bvld - Termon Ave,24 Hr stop and go,OHIO RIVER BLVD,Fully Actuated,Brighton Heights,1,27,42003980900,1,27,1,1-14,40.47886964,-80.04307996
+456,1768913186,TS567,Chartiers Ave - Steuben St,24 Hr stop and go,,Fully Actuated,Elliott,2,20,42003562600,5,20,6,1-17,40.44120483,-80.03807003
+457,1229660030,TS568,Obey Ave - Steuben St,24 Hr stop and go,STEUBEN ST,Fixed,Crafton Heights,2,28,42003281500,5,28,6,1-17,40.44300297,-80.05265945
+458,386492862,TS569,Beechview Blvd - Crane Ave - Tropical Ave,24 Hr stop and go,CRANE AVE,Fixed,Beechview,4,19,42003191600,5,19,6,4-28,40.41706705,-80.02517945
+459,580307551,TS57,Baker St - Butler St,24 Hr stop and go,BUTLER ST,Fully Actuated,Morningside,7,10,42003101400,2,10,5,3-7,40.4878503,-79.92007347
+460,648862288,TS570,Crane Ave - Saw Mill Run Blvd,24 Hr stop and go,SAW MILL RUN BLVD,Fully Actuated,Mount Washington,4,19,42003191500,5,19,3,4-28,40.41704209,-80.01454084
+461,118467825,TS571,Carson St - S 14th St,03:00 - 06:00 Sun - Sat,E CARSON ST,Fixed,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42880721,-79.98414936
+462,1307608314,TS572,Irvine St - Mobile St,23:00 - 06:00,IRVINE ST,Semi Actuated,Hazelwood,5,15,42003562900,3,15,4,2-13,40.4160256,-79.94673363
+463,1580146304,TS573,Second Ave - Tecumseh St,23:00 - 06:00,SECOND AVE,Fixed,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40857914,-79.94368359
+464,1701363052,TS574,Beechview Ave - Broadway Ave - Hampshire Ave,24 Hr stop and go,,Fully Actuated,Beechview,4,19,42003192000,5,19,6,4-28,40.41057566,-80.02467592
+465,1452067746,TS575,Birmingham Brg - Carson St,24 Hr stop and go,E CARSON ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42837039,-79.97361045
+466,227895511,TS576,Cypress St - Millvale Ave,23:00 - 06:00,S MILLVALE AVE,Fixed,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45875308,-79.94709365
+467,762134573,TS578,James St - North Ave,24 Hr stop and go,NORTH AVE,Fixed,East Allegheny,1,22,42003563200,1,22,1,1-6,40.45642107,-80.00157004
+468,1736769202,TS579,Benton Ave - California Ave,24 Hr stop and go,BRIGHTON RD,Fully Actuated,Brighton Heights,1,27,42003270100,1,27,1,1-14,40.48439303,-80.04048209
+469,152149489,TS58,Banksville Rd - Crane Ave,24 Hr stop and go,BANKSVILLE RD,Fully Actuated,Banksville,2,20,42003202300,5,20,6,4-9,40.41590736,-80.02994766
+470,713514147,TS580,BENNETT  STERRETT,24 Hr Stop & Go,BENNETT ST,Fixed,Homewood South,9,13,42003130300,2,13,5,3-17,40.45597336,-79.89450245
+471,491703835,TS581,Bigelow Blvd - Ross St - Sixth Ave,24 Hr stop and go,,Fixed,Central Business District,6,2,42003020100,6,2,2,1-3,40.44043532,-79.99487798
+472,1677195305,TS582,Centre Ave - Sixth Ave,24 Hr stop and go,SIXTH AVE,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43997837,-79.99418085
+473,1659896031,TS583,Carson St - S 26th St,03:00 - 06:00,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42745159,-79.96840382
+474,937651403,TS584,Freeport Rd - Waterworks I,22:00 - 09:00,FREEPORT RD,Fully Actuated,Lincoln-Lemington-Belmar,9,12,42003980000,2,12,5,3-24,40.48698478,-79.88674408
+475,69266538,TS585,Liberty Ave -26th St,23:00 - 06:00,LIBERTY AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-25,40.4543504,-79.97776409
+476,640260433,TS586,Carson St - S 24th St,24 Hr stop and go,E CARSON ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42821902,-79.97117064
+477,1254801023,TS587,Fifth Ave - Ross St,24 Hr stop and go,ROSS ST,Fixed,Central Business District,6,2,42003020100,6,2,2,1-4,40.43900379,-79.99560121
+478,851778926,TS588,Chatham Sq - Forbes Ave - Mcanulty Dr,24 Hr stop and go,FORBES AVE,Fixed,Bluff,6,1,42003010300,6,1,2,2-4,40.43793801,-79.99104125
+479,1096218171,TS589,Fifth Ave - Marion St,00:00 - 06:00,FIFTH AVE,Fixed,Bluff,6,3,42003010300,3,3,2,2-4,40.43850521,-79.98408873
+480,227817448,TS59,Banksville Rd - McMonagle Ave,24 Hr stop and go,BANKSVILLE RD,Fully Actuated,Banksville,2,20,42003202300,5,20,6,4-9,40.39963687,-80.04435536
+481,1079872343,TS590,Forbes Ave - Marion St,00:00 - 06:00,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-4,40.43762311,-79.98421176
+482,1977783821,TS591,Fifth Ave - Meyran Ave,24 Hr stop and go,FIFTH AVE,Fixed,Central Oakland,3,4,42003040500,3,4,4,2-14,40.4411626,-79.95927662
+483,2043131763,TS592,Cedarville St - Liberty Ave,00:00 - 06:00,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080200,2,8,5,3-6,40.46160413,-79.9489476
+484,1918584543,TS593,Highland Ave - Penn Ave,24 Hr stop and go,,Semi Actuated,East Liberty,9,8,42003111500,2,8,5,3-8,40.46147169,-79.92481112
+485,839502071,TS594,Centre Ave - Reed St,Stop and Go 24/7,CENTRE AVE,Fixed,Middle Hill,6,5,42003050100,3,5,2,2-5,40.44541303,-79.97087647
+486,1031545114,TS595,Brighton Rd - Pennsylvania Ave,23:00-6:00,BRIGHTON RD,Fixed,Central Northside,1,22,42003220600,1,22,1,1-21,40.45610391,-80.01535139
+487,1538823462,TS596,Famco - Second Ave,24 Hr stop and go,SECOND AVE,Semi Actuated,Central Business District,6,1,42003020100,6,1,2,1-4,40.43605125,-79.99571413
+488,1631632787,TS597,Carson St - Smithfield St,24 Hr stop and go,,Fully Actuated,South Shore,2,19,42003980700,5,19,3,4-2,40.43217246,-80.00396523
+489,1331141723,TS598,Carson St - Commerce Dr,24 Hr stop and go,W CARSON ST,Fully Actuated,South Shore,2,19,42003980700,5,19,3,4-2,40.43383853,-80.00677846
+490,1642344328,TS599,Freeport Rd - Waterworks II,22:00 - 09:00,FREEPORT RD,Fully Actuated,Lincoln-Lemington-Belmar,9,12,42003980000,2,12,5,3-24,40.48673139,-79.89234568
+491,993149963,TS6,Aiken Ave - Penn Ave,23:00 - 6:00,,Fixed,Bloomfield,9,8,42003080900,2,8,5,3-23,40.46468358,-79.9364441
+492,1372577339,TS60,Banksville Rd - Potomac Ave,24 Hr stop and go,BANKSVILLE RD,Fully Actuated,Banksville,2,20,42003202300,5,20,6,4-9,40.40333515,-80.04081866
+493,751354865,TS600,Centre Ave - Dinwiddie St,23:00 - 06:00,CENTRE AVE,Fixed,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44348601,-79.98053515
+494,513879076,TS601,Lane Control - Liberty Brg,,,Fixed,,6,,42003020100,,,,,40.43365101,-79.99617588
+495,220477942,TS602,Lane Control - General Robinson St,,,Fixed,North Shore,1,22,42003981200,6,22,1,1-7,40.44672135,-80.01322214
+496,1217539679,TS603,North Ave - Sandusky St,23:00-6:00,NORTH AVE,Fixed,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45585087,-80.00456783
+497,1572036969,TS604,East St - Hazlett St,00:00 - 06:00,EAST ST,Fully Actuated,Northview Heights,6,26,42003260900,1,26,1,1-13,40.47464496,-80.00517514
+498,1061215744,TS605,Penn Ave - Station St,0:00-6:00,PENN AVE,Fixed,East Liberty,8,11,42003111500,2,11,5,3-13,40.45881011,-79.91933721
+499,130520310,TS606,East St - Milroy St,00:00 - 06:00,EAST ST,Fully Actuated,Northview Heights,1,26,42003260900,1,26,1,1-13,40.47683986,-80.0067579
+500,872568642,TS607,East St - Venture St,00:00 - 06:00,EAST ST,Fully Actuated,Summer Hill,1,26,42003260700,1,26,1,1-15,40.4853398,-80.00953959
+501,1451226258,TS608,Browns Hill Rd - Wendy's,24 Hr stop and go,BROWNS HILL RD,Semi Actuated,Hazelwood,5,15,42003562300,3,15,4,2-12,40.41653453,-79.92577909
+502,780501747,TS609,Madison Ave - Tripoli St,24 Hr stop and go,MADISON AVE,Fixed,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45658738,-79.9976277
+503,512612257,TS61,Banksville Rd - Carnahan Rd - Wenzell Ave,24 Hr stop and go,BANKSVILLE RD,Semi Actuated,Banksville,2,20,42003202300,5,20,6,4-9,40.40701535,-80.03423979
+504,1681130241,TS610,Madison Ave - E. North Ave - Spring Garden Ave,24 Hr stop and go,MADISON AVE,Fixed,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45726475,-79.99785293
+505,385581450,TS611,Fifth Ave - Stevenson St,00:00 - 06:00,FIFTH AVE,Fixed,Central Business District,6,3,42003020100,3,3,2,2-4,40.43861505,-79.98646555
+506,2107725517,TS612,Second Ave -Technology Dr  (West),24 Hr stop and go,SECOND AVE,Fully Actuated,South Oakland,6,4,42003980800,3,4,4,2-2,40.43402132,-79.96521603
+507,18739015,TS613,Allen St - Warrington Ave,23:00 - 06:00,E WARRINGTON AVE,Fixed / Ped Actuated,Allentown,3,18,42003180300,5,18,3,4-6,40.42181017,-79.99374054
+508,1181991901,TS614,Chartiers Ave - Corliss St,0:00-6:00,CORLISS ST,Fully Actuated,Elliott,2,20,42003562500,5,20,6,1-16,40.45029738,-80.0450915
+509,792845911,TS615,Carson St - Fuhrer Driveway,23:00 - 05:00,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42326272,-79.96131239
+510,426094024,TS616,Friendship Ave - Pearl St,23:00 - 06:00,FRIENDSHIP AVE,Fixed,Bloomfield,7,9,42003080900,2,9,5,3-6,40.46351714,-79.94893763
+511,60431571,TS618,Allequippa St - Darragh St,23:00-6:00,ALLEQUIPPA ST,Fixed,Terrace Village,6,5,42003051000,3,5,4,2-10,40.44326341,-79.96518249
+512,1079212655,TS619,Darragh St - Terrace St,23:00-6:00,DARRAGH ST,Fixed,West Oakland,8,4,42003040200,3,4,4,2-10,40.44196746,-79.96283984
+513,1027054833,TS62,Bartlett St - Murray Ave,,MURRAY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.4360297,-79.92288281
+514,413526654,TS620,Freeport Rd - St Margaret Dr - Waterworks III,24 Hr stop and go,FREEPORT RD,Fully Actuated,Lincoln-Lemington-Belmar,9,12,42003980000,2,12,5,3-24,40.48722582,-79.89544603
+515,218571261,TS621,East St - Mt Pleasant Rd,00:00 - 06:00,EAST ST,Fully Actuated,Northview Heights,1,26,42003260900,1,26,1,1-15,40.48236663,-80.00597915
+516,1253941024,TS622,Brighton Rd - Ridge Ave,0:00-6:00,RIDGE AVE,Semi Actuated,Allegheny West,1,22,42003562700,1,22,1,1-7,40.45060429,-80.01341665
+517,1161898126,TS623,Brookline Blvd - Wedgemere St,24 Hr stop and go,BROOKLINE BLVD,Fixed / Ped Actuated,Brookline,4,19,42003191900,5,19,6,4-26,40.39548872,-80.02244274
+518,376420214,TS624,Becks Run Rd - Wagner St,,BECKS RUN RD,Semi Actuated,St. Clair,3,16,42003561700,3,16,3,4-13,40.40438335,-79.97589534
+519,1620088610,TS625,Lane Control - Fort Duquesne Brg,,,Fixed,Allegheny West,1,22,42003981200,6,22,1,1-7,40.44838696,-80.01223718
+520,1041204423,TS627,Centre Ave - Cypress St,24 Hr stop and go,CENTRE AVE,Fully Actuated,Shadyside,8,7,42003070900,2,7,4,3-1,40.45504768,-79.94149662
+521,1395611149,TS628,Penn Ave - 21st St,24 Hr Stop And Go,PENN AVE,Fixed,Strip District,7,2,42003020300,6,2,2,2-3,40.45169248,-79.98311827
+522,203348141,TS629,Fulton St - Western Ave,24 Hr stop and go,WESTERN AVE,Fully Actuated,Manchester,6,21,42003980600,1,21,1,1-8,40.45065519,-80.02357573
+523,307759113,TS63,Bascom St - Perrysville Ave - Vinceton St,24 Hr stop and go,PERRYSVILLE AVE,Fixed,Perry North,1,26,42003260200,1,26,1,1-15,40.49278656,-80.02180115
+524,855802527,TS630,Reedsdale St - Tony Dorsett Dr,24 Hr Stop and Go,REEDSDALE ST,Fully Actuated,North Shore,1,22,42003981200,6,22,1,1-7,40.44830441,-80.01050674
+525,144717567,TS631,County Driveway - Second Ave,23:00 - 06:00,SECOND AVE,Semi Actuated,Bluff,6,1,42003010300,3,1,2,2-2,40.43453196,-79.98709717
+526,739895155,TS632,Carson St - S 21st St,03:00 - 06:00,E CARSON ST,Fixed,South Side Flats,3,17,42003160900,3,17,3,4-24,40.42851374,-79.9762683
+527,1641002780,TS633,Forbes Ave - Morewood Gardens,23:00 - 06:00,FORBES AVE,Semi Actuated,Squirrel Hill North,8,14,42003140100,3,14,4,2-9,40.4445501,-79.94556471
+528,1953688427,TS634,Liberty Ave - Winebiddle St,00:00 - 06:00,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080400,2,8,5,3-6,40.45881967,-79.94373201
+529,24027769,TS635,Carson St Ramp - Station Square Dr W,24 Hr stop and go,CARSON ST RAMP,Fixed,South Shore,2,19,42003980700,5,19,3,4-2,40.44068385,-80.01894452
+530,1938267442,TS636,Lane Control - Smithfield St Brg,,,Fixed,,6,,42003020100,,,,,40.4360013,-80.00137133
+531,1151704640,TS637,Lane Control - Lacock St,,,Fixed,North Shore,1,22,42003563200,6,22,1,1-20,40.44945496,-80.00319818
+532,1584606386,TS638,Liberty Ave - Taylor St,System Flash 00:00 to 06:00 AM,LIBERTY AVE,Fixed,Bloomfield,7,8,42003080200,2,8,5,3-6,40.46264419,-79.9508873
+533,278722006,TS639,Aspen St - Liberty Ave,00:00 - 06:00,LIBERTY AVE,Fixed / Ped Actuated,Bloomfield,7,8,42003080600,2,8,5,3-23,40.45831849,-79.94279501
+534,693909886,TS64,Bates St - Second Ave,24 Hr stop and go,SECOND AVE,Fully Actuated,South Oakland,3,4,42003980800,3,4,4,2-2,40.43114382,-79.95920595
+535,643133511,TS640,Municipal Courts Dr - Second Ave,24 Hr stop and go,SECOND AVE,Semi Actuated,Central Business District,6,1,42003010300,6,1,2,1-4,40.43568615,-79.99478464
+536,224760074,TS641,Butler St - 56th St,24 Hr stop and go,BUTLER ST,Fixed,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48440578,-79.94805419
+537,2025210441,TS642,Pioneer Ave - W Liberty Ave,24 Hr stop and go,W LIBERTY AVE,Fully Actuated,Brookline,4,19,42003191700,5,19,6,4-28,40.41292009,-80.01012263
+538,808651266,TS643,Carson St - Hot Metal St,24 Hr stop and go,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42547426,-79.96460021
+539,482525367,TS644,Hot Metal St - Second Ave,24 Hr stop and go,SECOND AVE,Fully Actuated,South Oakland,3,4,42003980800,3,4,4,2-2,40.43002965,-79.95782011
+540,1346726856,TS645,Busway Ramp - Carson St,24 Hr stop and go,CARSON ST RAMP,Fully Actuated,Elliott,2,20,42003562600,5,20,6,1-17,40.45076163,-80.03673726
+541,1999021406,TS646,General Robinson St - Tony Dorsett Dr,24 Hr stop and go,GENERAL ROBINSON ST,Fully Actuated,North Shore,1,22,42003981200,6,22,1,1-7,40.44726543,-80.01031284
+542,369021886,TS647,Lane Control - Tony Dorsett Dr,,,Fixed,North Shore,1,22,42003981200,6,22,1,1-7,40.44789896,-80.01043918
+543,1392701913,TS648,Centre Ave - Euclid Ave,24 Hr stop and go,,Semi Actuated,Shadyside,8,7,42003070500,2,7,4,3-11,40.45876606,-79.92898276
+544,1974997695,TS649,Second Ave - Bridgeside Point,24 Hr stop and go,SECOND AVE,Fully Actuated,South Oakland,3,4,42003562900,3,4,4,2-12,40.42892259,-79.95668514
+545,745331741,TS65,Baum Blvd - Craig St,24 Hr stop and go,,Fully Actuated,North Oakland,6,5,42003562000,3,5,4,2-23,40.45400157,-79.95333712
+546,449865103,TS650,Carson St - S 33rd St,23:00 - 05:00,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42279228,-79.96061885
+547,785791056,TS651,Agnew Ave - Becks Run Rd,24 Hr stop and go,BECKS RUN RD,Semi Actuated,Carrick,4,29,42003290200,3,29,3,4-12,40.39697412,-79.97868765
+548,351322417,TS652,McMonagle Ave - Meadowcroft Ave,12:00 AM to 06:00 AM,MCMONAGLE AVE,Semi Actuated,Banksville,2,20,42003202300,5,20,6,4-9,40.40092476,-80.04840533
+549,679847606,TS653,Carson St - S 27th St,03:00 - 06:00 Sun - Sat,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42708956,-79.9670719
+550,557990913,TS654,Carson St - S 28th St,03:00 - 06:00 Sun - Sat,E CARSON ST,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.4262469,-79.96574442
+551,686692817,TS655,Eleventh St - Smallman St,24 hour stop and go,ELEVENTH ST,Semi Actuated,Strip District,7,2,42003020300,6,2,2,2-3,40.44565516,-79.99413519
+552,1703928722,TS656,Lorenz Ave - Steuben St,24 Hr stop and go,STEUBEN ST,Semi Actuated,Elliott,2,20,42003562600,5,20,6,1-17,40.44278288,-80.04241256
+553,2031145793,TS657,Hot Metal St - Water St,24 Hr stop and go,HOT METAL ST BRG,Semi Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42727637,-79.96253345
+554,1149887471,TS658,Hot Metal St - Sidney St,24 Hr stop and go,HOT METAL ST,Fully Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42624174,-79.96356046
+555,374565342,TS659,Carson St - Wabash Tunl Entrance Rd,"5:00 to 6:00 , 14:00 to 15:00",E CARSON ST,Fully Actuated,South Shore,2,19,42003980700,5,19,3,4-2,40.4328462,-80.0050941
+556,470681282,TS66,Baum Blvd - Cypress St,24 Hr stop and go,BAUM BLVD,Fully Actuated,Shadyside,7,8,42003070900,2,8,5,3-1,40.45594663,-79.94198818
+557,1947330672,TS660,Wabash St - Woodruff St,24 Hr stop and go,WOODRUFF ST,Fully Actuated,Mount Washington,2,19,42003191400,5,19,3,4-1,40.42625537,-80.01833267
+558,956699533,TS661,Giant Eagle - Negley Ave,23:00-6:00,S NEGLEY AVE,Semi Actuated,Shadyside,8,7,42003070900,2,7,4,3-11,40.45653776,-79.93362828
+559,564149333,TS662,Roberto Clemente Dr - Schenley Dr,24 Hr stop and go,,Fully Actuated,Central Oakland,3,4,42003040500,3,4,4,2-7,40.44181702,-79.95266287
+560,869914145,TS663,SchenleyDr - Schenley Dr Ext,24 Hr stop and go,,Fully Actuated,Central Oakland,3,4,42003982200,3,4,4,2-8,40.4424155,-79.95167836
+561,585819007,TS664,Lane Control - West End Brg,,,Fixed,,2,,42003980700,,,,,40.44601643,-80.02718404
+562,2061627559,TS665,Friendship Ave - Howley St,24 Hr stop and go,FRIENDSHIP AVE,Semi Actuated,Bloomfield,7,9,42003090300,2,9,5,3-6,40.46521575,-79.95131502
+563,5305491,TS666,Butler St -  45th St,24 Hr stop and go,BUTLER ST,Fixed,Central Lawrenceville,7,9,42003090100,2,9,2,3-3,40.47215631,-79.95929439
+564,426471261,TS667,Liberty Ave - 17th St,24 Hr stop and go,,Fixed / Ped Actuated,Strip District,7,2,42003020300,6,2,2,2-3,40.44915956,-79.98539677
+565,364449727,TS668,Casino Dr - Casino Porte Cochere,24 Hr Stop and Go,,Semi Actuated,Chateau,6,21,42003980600,6,21,1,1-8,40.44682642,-80.02052833
+566,1162411477,TS669,Casino Dr - Reedsdale St,24 Hr Stop and Go,,Semi Actuated,Chateau,6,21,42003980600,6,21,1,1-8,40.44796433,-80.02122099
+567,1361138057,TS67,Baum Blvd - Friendship Ave - S Euclid Ave,24 Hr stop and go,S EUCLID AVE,Semi Actuated,East Liberty,9,8,42003111500,2,8,5,3-23,40.45968993,-79.92937478
+568,1362401580,TS670,Beaver Ave - Lighthill St - North Point Dr - Reedsdale St,24 Hr Stop and Go,,Semi Actuated,Chateau,6,21,42003980600,1,21,1,1-8,40.44858232,-80.02390993
+569,407321807,TS671,Second Ave - Technology Dr (Middle),24 Hr stop and go,SECOND AVE,Fully Actuated,South Oakland,3,4,42003980800,3,4,4,2-2,40.43274528,-79.96229097
+570,1855408416,TS672,Fifth Ave - McPherson Blvd,,FIFTH AVE,Fully Actuated,Larimer,9,14,42003120800,2,14,5,3-14,40.45577034,-79.9105401
+571,1265632340,TS673,Dahlem PL - East Liberty Blvd,24 Hr stop and go,E LIBERTY BLVD,Semi Actuated,East Liberty,9,12,42003120800,2,12,5,3-13,40.45842433,-79.91661932
+572,234207751,TS674,Bakery Square Blvd - Penn Ave,,PENN AVE,Fully Actuated,Larimer,9,7,42003120800,2,7,5,3-13,40.45614189,-79.91545595
+573,304144050,TS675,Butler St - 55Th St,24 Hr stop and go,BUTLER ST,Semi Actuated,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48359826,-79.94991065
+574,715836300,TS676,Carson St - Sarah St,24 Hr stop and go,E CARSON ST,Fixed,South Side Flats,3,16,42003160900,3,16,3,4-24,40.42409851,-79.962486
+575,27827760,TS677,Penn Ave - Spirit St,24 Hr stop and go,PENN AVE,Semi Actuated,East Liberty,9,7,42003111500,2,7,4,3-10,40.46031497,-79.92166916
+576,1391678132,TS678,Annie Pl - Centre Ave,24 Hr stop and go,CENTRE AVE,Semi Actuated,East Liberty,9,7,42003111500,2,7,5,3-11,40.46029497,-79.92395116
+577,146879751,TS679,Brookline Blvd - Queensboro Ave - Starkamp St,24 Hr stop and go,BROOKLINE BLVD,Semi Actuated,Brookline,4,19,42003191900,5,19,6,4-26,40.39183984,-80.01677144
+578,1069737164,TS68,Baum Blvd - Graham Pl,24 Hr stop and go,BAUM BLVD,Fully Actuated,Bloomfield,7,8,42003080600,2,8,5,3-23,40.45742448,-79.93695152
+579,109095011,TS681,Fifth Ave -University Pl,24 Hr stop and go,FIFTH AVE,Fixed,North Oakland,8,4,42003982200,3,4,4,2-7,40.44380517,-79.95568009
+580,1372296686,TS683,Baum Blvd - Luna Driveway,24 Hr stop and go,BAUM BLVD,Fully Actuated,Bloomfield,7,8,42003080400,2,8,5,3-1,40.45544763,-79.94376139
+581,1853636852,TS684,Smallman St - 13th St,24 Hr stop and go,SMALLMAN ST,Semi Actuated,Strip District,7,2,42003020300,6,2,2,2-3,40.44714281,-79.99180694
+582,349604133,TS685,Highland Ave -Spirit St,24 Hr stop and go,S HIGHLAND AVE,Fully Actuated,Shadyside,8,7,42003070500,2,7,4,3-11,40.45929997,-79.92509016
+583,371609836,TS689,Centre Ave -Fullerton St,24 Hr stop and go,CENTRE AVE,Fully Actuated,Central Business District,6,3,42003020100,6,3,2,2-4,40.44054786,-79.98842437
+584,166116047,TS69,Baum Blvd - Melwood Ave,24 Hr stop and go,BAUM BLVD,Fixed,North Oakland,6,5,42003562000,3,5,4,2-23,40.4540384,-79.951945
+585,715321095,TS691,Lane Control Lc#1   Rt51,,,,Duquesne Heights,2,19,42003191100,5,19,3,1-17,40.43332264,-80.02844056
+586,570711095,TS692,Lane Control Lc#2,,,,West End,2,20,42003562600,5,20,6,1-17,40.43752411,-80.03305396
+587,1464539034,TS693,Lane Control Lc#3   Rt51,,,,Duquesne Heights,2,19,42003191100,5,19,3,1-17,40.44121906,-80.0308921
+588,2029517080,TS7,Aiken Ave - Walnut St,24 Hr stop and go,,Fixed / Ped Actuated,Shadyside,8,7,42003070300,2,7,4,3-22,40.45064259,-79.93550596
+589,985147153,TS70,Baum Blvd - Millvale Ave,24 Hr stop and go,BAUM BLVD,Fully Actuated,Bloomfield,7,8,42003080400,2,8,5,2-23,40.45439121,-79.94767676
+590,181739837,TS71,Baum Blvd - Morewood Ave,24 Hr stop and go,BAUM BLVD,Fully Actuated,Bloomfield,7,8,42003080400,2,8,5,2-23,40.45497769,-79.94521652
+591,435724848,TS72,Baum Blvd - Negley Ave,24 Hr stop and go,BAUM BLVD,Fully Actuated,Friendship,7,8,42003080700,2,8,5,3-23,40.45835939,-79.93382206
+592,911328080,TS73,Baum Blvd - Roup Ave,24 Hr stop and go,BAUM BLVD,Fully Actuated,Friendship,7,8,42003080700,2,8,5,3-23,40.45812699,-79.93460043
+593,908093154,TS74,Bausman St - Saw Mill Run Blvd,24 Hr stop and go,SAW MILL RUN BLVD,Fully Actuated,Beltzhoover,4,18,42003562400,5,18,3,4-18,40.41109516,-80.00608933
+594,1182495922,TS75,Bayard St - Bellefield Ave,24 Hr stop and go,BAYARD ST,Fixed / Ped Actuated,North Oakland,8,4,42003562000,3,4,4,2-7,40.44836628,-79.95272713
+595,246969556,TS76,Bayard St - Bigelow Blvd,24 Hr stop and go,,Fixed,North Oakland,8,4,42003562000,3,4,4,2-7,40.44762441,-79.95375195
+596,1175243296,TS77,Bayard St - Craig St,24 Hr stop and go,N CRAIG ST,Fully Actuated,North Oakland,8,4,42003562000,3,4,4,2-9,40.44980844,-79.9507412
+597,1949317724,TS78,Bayard St - Morewood Ave,24 Hr stop and go,BAYARD ST,Fixed,Shadyside,8,7,42003070900,2,7,4,3-22,40.45181872,-79.94336637
+598,924762073,TS79,Bayard St - Neville St,24 Hr stop and go,BAYARD ST,Fixed,North Oakland,8,4,42003040400,2,4,4,2-9,40.45039988,-79.94875441
+599,411157707,TS8,Alder St - Highland Ave,24 Hr stop and go,,Fixed,Shadyside,8,7,42003070500,2,7,4,3-11,40.45738628,-79.92520151
+600,1608169474,TS80,Baytree St - East ST - Perrysville Ave,24 Hr stop and go,PERRYSVILLE AVE,Fixed,Perry North,1,26,42003260700,1,26,1,1-15,40.48951659,-80.01835071
+601,1252587291,TS81,Baytree St - Evergreen Rd,24 Hr stop and go,EVERGREEN RD,Fully Actuated,Summer Hill,1,26,42003260200,1,26,1,1-15,40.48845669,-80.0101552
+602,649270041,TS82,Beacon St - Murray Ave,24 Hr stop and go,MURRAY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43476158,-79.92283613
+603,877866287,TS83,Beacon St - Shady Ave,24 Hr stop and go,SHADY AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43531929,-79.91897851
+604,868247070,TS84,Beacon St - Wightman St,24 Hr stop and go,BEACON ST,Fixed,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43412711,-79.92761339
+605,58760704,TS85,Beatty St - Centre Ave,00:00 - 06:00,CENTRE AVE,Semi Actuated,Shadyside,8,7,42003111500,2,7,4,3-11,40.45924006,-79.92747074
+606,2136486972,TS86,Beaver Ave - Chateau St,24 Hr stop and go,BEAVER AVE,Fixed,Chateau,6,21,42003980600,1,21,1,1-8,40.45584181,-80.0298382
+607,273681944,TS87,Becks Run Rd - Brownsville Rd,24 Hr stop and go,BROWNSVILLE RD,Fixed,Carrick,4,29,42003290400,3,29,3,4-12,40.38733264,-79.98380122
+608,1326079451,TS88,Becks Run Rd - Carson St,24 Hr stop and go,E CARSON ST,Fully Actuated,South Side Flats,3,16,42003160900,3,16,3,4-24,40.41103228,-79.95552654
+609,770003264,TS89,Bedford Ave - Crawford St,00:00 - 07:00,BEDFORD AVE,Fixed,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.4440581,-79.98813933
+610,1470969083,TS9,Alexander St - Main St,23:00 - 6:00,,Fixed,West End,2,20,42003562600,5,20,6,1-17,40.44121104,-80.03405627
+611,462019118,TS90,Bedford Ave - Herron Ave - Webster Ave,24 Hr stop and go,,Fully Actuated,Upper Hill,6,5,42003050600,3,5,2,2-5,40.45289115,-79.96492807
+612,42942322,TS91,Bedford Ave - Washington Pl,24 Hr stop and go,WASHINGTON PL,Fixed,Central Business District,6,3,42003020100,6,3,2,2-4,40.44166098,-79.99203735
+613,301063214,TS92,Beechwood Blvd - Browns Hill Rd - Hazelwood Ave,24 Hr stop and go,,Semi Actuated,Greenfield,5,15,42003151700,3,15,4,2-12,40.41961551,-79.92715453
+614,24837481,TS93,Beechwood Blvd - Fifth Ave,24 Hr stop and go,,Semi Actuated,Point Breeze,8,7,42003140400,3,7,4,2-17,40.45362194,-79.91535751
+615,1732134566,TS94,Beechwood Blvd - Forbes Ave,24 Hr stop and go,FORBES AVE,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-18,40.43804373,-79.91614851
+616,2091509998,TS95,Beechwood Blvd - Forward Ave,24 Hr stop and go,BEECHWOOD BLVD,Fixed,Squirrel Hill South,5,14,42003141400,3,14,4,2-21,40.42792429,-79.91611828
+617,103297690,TS96,Beechwood Blvd - Lilac St,24 Hr stop and go,BEECHWOOD BLVD,Fixed,Greenfield,5,15,42003151700,3,15,4,2-15,40.42305107,-79.9275829
+618,1239438940,TS97,Beechwood Blvd - Linden Ave - Wilkins Ave,24 Hr stop and go,BEECHWOOD BLVD,Fixed,Point Breeze,8,14,42003140400,3,14,4,2-18,40.44433428,-79.91777957
+619,197533606,TS98,Beechwood Blvd - Northumberland St,00:00 - 06:00,BEECHWOOD BLVD,Fixed,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44229374,-79.91717851
+620,9330691,TS99,Beechwood Blvd - Phillips Ave,00:00 - 06:00,BEECHWOOD BLVD,Fixed,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43263176,-79.91512897
+621,1408515689,TSF142,RRFB - Forbes Ave and Boyd St,,,,Bluff,6,1,42003010300,6,1,2,2-4,40.43804036,-79.99323755
+622,287632566,TSF145,RRFB - Liberty Ave and 29th St,,,,Strip District,7,6,42003020300,6,6,2,3-2,40.457339,-79.97347896
+623,81814505,TS711,Bedford Ave - Logan St,24 Hr stop and go,BEDFORD AVE,Fully Actuated,Central Business District,6,3,42003030500,6,3,2,2-4,40.44281779,-79.99088288
+624,1555867661,TS712,Centre Ave - Logan St,24 Hr stop and go,CENTRE AVE,Fully Actuated,Central Business District,6,3,42003020100,6,3,2,2-4,40.44054351,-79.98927971
+625,1338578659,TS713,Forbes Ave - Gist St,24 Hour Stop & Go,FORBES AVE,Fixed,Bluff,6,1,42003010300,3,1,2,2-1,40.43744832,-79.97952584
+626,823311999,TSF143,RRFB - 14th St and Smallman St,,,,Strip District,7,2,42003020300,6,2,2,2-3,40.44794348,-79.99057043
+627,1220314122,TSF147,RRFB - N Shore Dr,,,,North Shore,1,22,42003981200,6,22,1,1-7,40.44603651,-80.01068227
+628,921244871,TSF56,Brashear High School,,,,Beechview,4,19,42003191600,5,19,6,4-28,40.4187126,-80.01791151
+629,1779953525,TSF74,St Edmond's Academy School,,,,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43747628,-79.92464531
+630,1651867340,TS682,Butler St - Suydam,24 Hour Stop and Go,,Fully Actuated,Upper Lawrenceville,7,10,42003101100,2,10,2,3-7,40.48667621,-79.94220703
+631,107084279,TSF1,Banksville Elementary School,,,,Banksville,2,20,42003202300,5,20,6,4-9,40.40719824,-80.03694342
+632,1549420463,TSF10,FAISON INTERMEDIATE (CLOSED),,,,Homewood South,9,13,42003130300,2,13,5,3-17,40.45250941,-79.89427485
+633,775542206,TSF101,St Rosalia School (Closed),,,,Greenfield,5,15,42003151600,3,15,4,2-12,40.42575538,-79.94394692
+634,428442419,TSF102,DePaul Institute  (Sacred Heart) School,,,,Shadyside,8,7,42003070600,2,7,4,3-11,40.45664867,-79.92336331
+635,557434659,TSF104,ST. STEPHEN [CLOSED],,,,Hazelwood,5,15,42003562300,3,15,4,2-13,40.40710533,-79.94186085
+636,1941962883,TSF106,WPA School for the Blind,,,,North Oakland,8,4,42003562000,3,4,4,2-7,40.44988624,-79.95310613
+637,1674675301,TSF107,Winchester Thurston School,,,,Shadyside,8,7,42003070900,2,7,4,3-22,40.45150818,-79.94247348
+638,691914902,TSF109,INCARNATION ACADEMY [CLOSED],,,,Perry North,1,26,42003260200,1,26,1,1-15,40.49269423,-80.0201863
+639,1356486024,TSF110,Yeshiva (Girls School),,,,Squirrel Hill North,5,14,42003140300,3,14,4,2-18,40.43852571,-79.91734042
+640,1023751888,TSF111,Grandview School,,,,Allentown,3,18,42003180300,5,18,3,4-5,40.42454213,-79.99281473
+641,986882660,TSF112,CRAIGHOUSE TECHNOMA (CLOSED),,,,East Liberty,7,11,42003111300,2,11,5,3-8,40.47116827,-79.92683607
+642,1461849415,TSF113,Schiller School,,,,East Allegheny,1,23,42003563200,1,23,1,1-5,40.45643342,-79.99312323
+643,957603343,TSF114,ST. MATTHEWS SCHOOL [CLOSED],,,,East Allegheny,1,23,42003563200,1,23,1,1-6,40.45699418,-79.99999102
+644,619147172,TSF116,Ped Crossing - 4Th Ave And PPG Place,,,,Central Business District,6,1,42003020100,6,1,2,1-4,40.44003731,-80.00303327
+645,1702522643,TSF117,Ped Crossing - 5862 Forbes Ave,,,,Squirrel Hill South,5,14,42003140800,3,14,4,2-18,40.43803993,-79.92043961
+646,573523758,TSF118,Ped Crossing - 1000 Brownsville Rd,,,,Carrick,4,29,42003290100,3,29,3,4-12,40.40677267,-79.99228268
+647,691161214,TSF12,Dilworth School,,,,East Liberty,7,11,42003111300,2,11,5,3-9,40.46822563,-79.91735328
+648,1869929446,TSF121,McCleary Pre-School (Closed),,,,Upper Lawrenceville,7,10,42003101100,2,10,2,3-5,40.48030991,-79.95124884
+649,2032161632,TSF122,Falk School,,,,North Oakland,8,4,42003982200,3,4,4,2-22,40.44704701,-79.95972857
+650,551638088,TSF127,Warning Sign - Brighton Rd And Acacia Ln,,,,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.47999875,-80.03128651
+651,1158337104,TSF129,Warning - East St Near Madison Ave,,,,Spring Hill-City View,1,24,42003262000,1,24,1,1-24,40.4595404,-79.99873074
+652,331421437,TSF13,Imani Christian Academy School,,,,East Hills,9,13,42003130600,2,13,5,3-19,40.45317854,-79.87248919
+653,1187054101,TSF130,Warning - Steuben St Near Herschel St,,,,Elliott,2,20,42003562600,5,20,6,1-17,40.44282945,-80.04441814
+654,392673269,TSF131,Community Day School,,,,Squirrel Hill South,5,14,42003141400,3,14,4,2-21,40.42740833,-79.91788347
+655,846208481,TSF132,Ped Crossing - Centre Ave (Hill House),,,,Crawford-Roberts,6,3,42003030500,3,3,2,2-1,40.44336383,-79.9806928
+656,2110544957,TSF133,Warning - Panther Hollow Anderson Playground,,,,Squirrel Hill South,5,14,42003980500,3,14,4,2-8,40.43565306,-79.94749788
+657,1544515301,TSF134,Childrens Institute School,,,,Squirrel Hill North,8,14,42003140300,3,14,4,2-18,40.44315066,-79.91996667
+658,419725968,TSF135,Ped Crossing - River Ave,,,,Troy Hill,1,24,42003240600,6,24,1,1-1,40.46060955,-79.98210894
+659,1201961587,TSF136,Warning - Second Ave And Swinburne St,,,,Hazelwood,3,4,42003562900,3,4,4,2-12,40.42595234,-79.95376145
+660,227387572,TSF137,Arlington School (Closed),,,,Arlington,3,16,42003561600,3,16,3,4-8,40.41720288,-79.97160304
+661,1574994564,TSF138,Ped Crossing - S Braddock Ave And Biddle Ave,,,,Regent Square,5,14,42003141000,3,14,4,2-16,40.43690137,-79.89644469
+662,108162291,TSF139,Urban League G.P Charter School (Closed),,,,Larimer,9,12,42003120400,2,12,5,3-12,40.46228907,-79.90992843
+663,1778263797,TSF140,Warning Radar Limit Sign - 40Th St,,,,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.46718825,-79.9603302
+664,1520279679,TSF141,Environmental Charter School,,,,Point Breeze,9,14,42003140600,3,14,4,3-14,40.44496112,-79.89578027
+665,443117040,TSF144,RRFB - W Ohio St and Ridge Ave,,,,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45161738,-80.01122943
+666,378744786,TSF148,Watson Institute School,,,,East Liberty,9,8,42003111500,2,8,5,3-23,40.46114786,-79.93178363
+667,1212335100,TSF15,Pittsburgh Montessori School,,,,Friendship,9,8,42003080700,2,8,5,3-23,40.46240687,-79.9356001
+668,621278366,TSF16,Fulton School,,,,Highland Park,7,11,42003110200,2,11,5,3-9,40.47498054,-79.92210853
+669,408275157,TSF17,MORNINGSIDE SCHOOL    [CLOSED],,,,Morningside,7,10,42003101400,2,10,5,3-7,40.4861583,-79.92589157
+670,1029047981,TSF18,HOMEWOOD PRE-SCHOOL (CLOSED),,,,Homewood South,9,13,42003130300,2,13,5,3-17,40.45465097,-79.8994247
+671,473558409,TSF19,Martin Luther King School,,,,Allegheny Center,1,22,42003562700,1,22,1,1-6,40.45484791,-80.00461449
+672,57300805,TSF2,LINCOLN INTERMEDIATE (CLOSED),,,,Homewood North,9,13,42003130200,2,13,5,3-18,40.4609822,-79.89683256
+673,1958229601,TSF20,LEMINGTON SCHOOL [CLOSED],,,,Lincoln-Lemington-Belmar,9,12,42003561900,2,12,5,3-18,40.47011323,-79.89652613
+674,471412582,TSF21,Liberty Elementary School,,,,Shadyside,8,7,42003070300,2,7,4,3-22,40.45323386,-79.93349052
+675,1787441882,TSF22,Lincoln Primary School,,,,Larimer,9,12,42003120800,2,12,5,3-12,40.46000836,-79.91155575
+676,1962748043,TSF23,Linden School,,,,Point Breeze,8,14,42003140400,3,14,4,2-17,40.44554415,-79.91621442
+677,1299631356,TSF24,MADISON SCHOOL  [CLOSED],,,,Upper Hill,6,5,42003050600,3,5,2,2-22,40.45481014,-79.96115534
+678,1078132826,TSF25,Manchester School,,,,Manchester,6,21,42003210700,1,21,1,1-8,40.45648471,-80.02652978
+679,790567418,TSF28,McKelvy Miller African Academy School,,,,Bedford Dwellings,6,5,42003050900,3,5,2,2-1,40.44736515,-79.98139267
+680,1978737105,TSF29,Mifflin School,,,,Lincoln Place,5,31,42003310200,3,31,4,4-20,40.37000854,-79.91509843
+681,236697131,TSF30,John Minadeo School,,,,Squirrel Hill South,5,14,42003141400,3,14,4,2-15,40.42375533,-79.92522943
+682,1753336656,TSF31,John Morrow Elementary School,,,,Brighton Heights,1,27,42003270300,1,27,1,1-14,40.48012245,-80.03979348
+683,180410284,TSF32,PHILLIP MURRAY(ALA)CLOSED 2012,,,,Mt. Oliver,3,16,42003561700,3,16,3,4-8,40.40913819,-79.97929418
+684,560649704,TSF33,NORTHVIEW ELEM ALA CLOSED 2012,,,,Northview Heights,1,26,42003260900,1,26,1,1-13,40.48123036,-80.00432467
+685,102740357,TSF35,Phillips School,,,,South Side Flats,3,17,42003170200,3,17,3,4-24,40.42798562,-79.97827904
+686,522232198,TSF36,ROGERS SCHOOL (CLOSED),,,,Garfield,9,11,42003111400,2,11,5,3-4,40.46919771,-79.93061017
+687,914186294,TSF37,SCHAEFFER INTERM (CLOSED 2012),,,,Sheraden,2,20,42003562500,5,20,6,1-16,40.45430901,-80.05535221
+688,1258652617,TSF38,Spring Garden Pre-School,,,,Troy Hill,1,24,42003240600,1,24,1,1-24,40.46431324,-79.98542254
+689,942873758,TSF108,Greentree & Hamburg Special School,,,,,,,42003469000,,,,,40.42379468,-80.04269352
+690,1840904161,TSF115,HORACE MANN SCHOOL    [CLOSED],,,,Marshall-Shadeland,1,27,42003271500,1,27,1,1-14,40.47033237,-80.03113966
+691,909218040,TSF119,ELIZABETH SETON (CLOSED),,,,Sheraden,2,20,42003562500,5,20,6,1-16,40.45575575,-80.05567109
+692,1771272482,TSF120,BELTZHOOVER SCHOOL    [CLOSED],,,,Beltzhoover,3,18,42003562400,5,18,3,4-16,40.41799109,-80.00181692
+693,1537621726,TSF126,Warning Sign - E Ohio St Near Heinz,,,,Troy Hill,1,23,42003240600,1,23,1,1-5,40.45601457,-79.99134353
+694,2043102099,TSF39,Spring Hill School,,,,Spring Hill-City View,1,24,42003262000,1,24,1,1-11,40.46525785,-79.98952419
+695,446836776,TSF4,Brookline School,,,,Brookline,4,19,42003191800,5,19,6,4-26,40.39436325,-80.02474862
+696,857278976,TSF40,Sunnyside School,,,,Stanton Heights,7,10,42003101800,2,10,5,3-7,40.48157678,-79.93347601
+697,514479185,TSF41,Leo Weil School,,,,Middle Hill,6,5,42003050100,3,5,2,2-5,40.4446113,-79.97407129
+698,1301885130,TSF42,Westwood School,,,,Westwood,2,28,42003563100,5,28,6,1-18,40.4318771,-80.05104442
+699,930589246,TSF43,Woolslair School,,,,Bloomfield,7,9,42003090300,2,9,5,3-6,40.46337484,-79.95710274
+700,280729096,TSF44,VANN SCHOOL (CLOSED),,,,Middle Hill,6,5,42003050100,3,5,2,2-5,40.44950379,-79.97125023
+701,469795792,TSF45,Arsenal School,,,,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46769533,-79.96251218
+702,1435613290,TSF46,COLUMBUS SCHOOL  [CLOSED],,,,Perry South,6,25,42003261400,1,25,1,1-10,40.46005605,-80.01586048
+703,746489088,TSF48,Pittsburgh Classic Academy (Greenway) School,,,,Crafton Heights,2,28,42003281400,5,28,6,1-17,40.44863348,-80.04972515
+704,373712998,TSF49,KNOXVILLE             [CLOSED],,,,Knoxville,3,30,42003300100,5,30,3,4-21,40.41614723,-79.99425412
+705,1883963938,TSF50,University Prep (Millones) School,,,,Upper Hill,6,5,42003050600,3,5,2,2-22,40.4498223,-79.96247122
+706,1976047490,TSF51,REIZENSTEIN  (CLOSED 2012),,,,East Liberty,9,11,42003111300,2,11,5,3-8,,
+707,1874085008,TSF52,Sterrett School,,,,Point Breeze,9,14,42003140600,3,14,4,3-14,40.44663667,-79.90547662
+708,271184448,TSF53,Conroy Education Center,,,,Manchester,6,21,42003210700,1,21,1,1-8,40.45174496,-80.0247701
+709,970112126,TSF54,WASHINGTON EDUCATION  [CLOSED],,,,Central Lawrenceville,7,9,42003090100,2,9,2,3-3,40.46952808,-79.96277706
+710,93819084,TSF55,Allderdice High School,,,,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.42962819,-79.91942389
+711,85783904,TSF57,Carrick High School,,,,Carrick,4,29,42003290400,3,29,3,4-23,40.39071693,-79.98920956
+712,1414281445,TSF58,Langley Elementary School,,,,Sheraden,2,20,42003562500,5,20,6,1-16,40.45432921,-80.05539564
+713,1740561956,TSF59,Oliver Citywide Academy School,,,,Marshall-Shadeland,1,27,42003270400,1,27,1,1-9,40.46427996,-80.02451742
+714,137537587,TSF6,Carmalt Elementary School,,,,Overbrook,4,32,42003320700,5,32,3,4-25,40.38755187,-80.00685913
+715,1520608401,TSF60,Obama School (Formerly Peabody),,,,East Liberty,9,11,42003111300,2,11,5,3-8,40.46709821,-79.92321865
+716,1725740244,TSF61,Perry High School,,,,Perry North,1,26,42003260200,1,26,1,1-15,40.4891385,-80.01896763
+717,1149202780,TSF65,ST. AGNES (CLOSED 2011),,,,West Oakland,6,4,42003040200,3,4,4,2-10,40.43847714,-79.96510785
+718,855635976,TSF67,Roosevelt Elementary (St. Basil) School,,,,Carrick,4,29,42003290200,3,29,3,4-12,40.39768639,-79.9877541
+719,101371225,TSF68,St Bede School,,,,Point Breeze,9,14,42003140600,3,14,4,2-17,40.44714727,-79.91032706
+720,1929346181,TSF69,Canevin School,,,,East Carnegie,2,28,42003562800,5,28,6,1-19,40.4230227,-80.07090751
+721,1873934483,TSF7,Chartiers Pre-School,,,,Windgap,2,28,42003563000,5,28,6,1-16,40.45761054,-80.07594257
+722,1243500181,TSF72,Central Catholic High School,,,,Squirrel Hill North,8,14,42003140100,3,14,4,2-9,40.44691057,-79.94589885
+723,2116674242,TSF73,North Side Catholic School,,,,Brighton Heights,1,27,42003270800,1,27,1,1-14,40.48628526,-80.03606907
+724,807312439,TSF75,Ellis School,,,,Shadyside,8,7,42003070800,2,7,4,3-13,40.4537499,-79.91809838
+725,1853069543,TSF79,ST. BENEDICT THE MOOR (Closed),,,,Middle Hill,6,5,42003050100,3,5,2,2-5,40.44951808,-79.97124755
+726,507518740,TSF8,Colfax School,,,,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.43314168,-79.91542176
+727,1237502376,TSF80,Hillel Academy School,,,,Squirrel Hill South,5,14,42003141300,3,14,4,2-21,40.43497305,-79.9250324
+728,1374892240,TSF81,Holy Rosary School (Closed),,,,Homewood South,9,13,42003130300,2,13,5,3-17,40.45552599,-79.89816806
+729,319241588,TSF82,St Maria Goretti (Immaculate Conception) School,,,,Bloomfield,7,8,42003080900,2,8,5,3-6,40.46183379,-79.9476908
+730,1980112935,TSF86,BISHOP LEONARD REG. [CLOSED],,,,Mt. Oliver,3,16,42003561700,3,16,3,4-8,40.41247312,-79.97974222
+731,462579314,TSF87,BROOKLINE REG CATH #1 [CLOSED],,,,Brookline,4,19,42003191900,5,19,6,4-26,,
+732,637196195,TSF89,ST.JOHN NEUMAN ELEM (CLOSED),,,,Central Lawrenceville,7,9,42003090200,2,9,2,3-3,40.47027957,-79.95897444
+733,1953627579,TSF9,Concord School,,,,Carrick,4,29,42003290400,3,29,3,4-23,40.38736065,-79.98480984
+734,866484208,TSF92,ST. MARY OF THE MOUNT (CLOSED),,,,Mount Washington,2,19,42003190300,5,19,3,4-1,40.4352525,-80.01438589
+735,730034733,TSF93,Oakland Catholic High School,,,,North Oakland,8,4,42003040400,3,4,4,2-9,40.449034,-79.94980581
+736,1234723155,TSF95,Provident Charter School,,,,Troy Hill,1,24,42003240600,1,24,1,1-2,40.46060744,-79.98552198
+737,858773013,TSF96,Allegheny Traditional School,,,,Allegheny Center,1,22,42003562700,1,22,1,1-7,40.45345911,-80.00842329
+738,1768901860,TSF98,St. John Bosco Academy (CLOSED),,,,Brookline,4,19,42003191900,5,19,6,4-26,40.39565631,-80.02901845
+739,850832401,TSF99,St Raphael School (Closed),,,,Morningside,7,10,42003101400,2,10,5,3-7,40.47809067,-79.92869732
+740,286021892,TS714,Forbes Ave - Tepper Driveway,Stop and Go 24/7,,Fully Actuated,Squirrel Hill North,8,14,42003140100,3,14,4,2-9,40.44458253,-79.94639463
+741,1496727504,TS715,Forbes Ave  - Cyert Hall,Stop and Go 24/7,,,Squirrel Hill North,8,14,42003140100,3,14,4,2-9,40.44463291,-79.94445311
+773,1525575818,TS680,Washington Blvd - Emergency Flood Gate,,,,Lincoln-Lemington-Belmar,7,12,42003980100,2,12,5,3-15,,
+806,1858411412,TS700,USX Antenna,,,,Central Business District,6,2,42003020100,6,2,2,1-3,40.44123693,-79.99469073
+839,917216910,TS686,Sign Control N.E.L.T,,,,,,,,,,,,,
+840,373724741,TS687,Sign Control S.E.L.T,,,,,,,,,,,,,
+841,38843963,TS688,Scoreboard - Liberty Brg,,,,,,,,,,,,,
+842,1870861204,TS690,West End Brg  6 - Daktronic Signs,,,,,,,,,,,,,
+843,1247017832,TS694,Lane Control Lc#4   X-Arr + 1 Fo Sign,,,,,,,,,,,,,
+844,1877212468,TS695,Lane Control Lc#5  X-Arr,,,,,,,,,,,,,
+845,1026092138,TS696,Lane Control Lc#6  X-Arr,,,,,,,,,,,,,
+846,494879545,TS697,Lane Control Lc#7   X-Arr,,,,,,,,,,,,,
+847,370070705,TS698,Lane Control Lc#8  Lt Signs,,,,,,,,,,,,,
+848,1131175059,TS699,Lane Control Lc#9  X-Arr,,,,,,,,,,,,,
+849,499740732,TS701,Mux/Tc#1 Blvd of the Allies @ Grant St,,,,,,,,,,,,,
+850,1639735913,TS702,Mux/Tc#2 Forbes Ave @ Grant St,,,,,,,,,,,,,
+851,374945454,TS703,Mux/Tc#3 Grant St @ 6Th Ave,,,,,,,,,,,,,
+852,2001947886,TS704,Mux/Tc#4 Liberty Ave @ 6Th Ave/7Th St,,,,,,,,,,,,,
+853,1570399476,TS705,Mux/Tc#5 Fort Duquesne Blvd @ 6Th St Bridge,,,,,,,,,,,,,
+854,843615672,TS706,Mux/Tc#6 Stanwix St @ Forbes Ave,,,,,,,,,,,,,
+855,809264802,TS707,Mux/Tc#7 Forbes Ave @ Armstrong Tunnels,,,,,,,,,,,,,
+856,1617391330,TS708,West Liberty Ave Repeater,,,,,,,,,,,,,
+857,1572316087,TS709,Penn Ave - Repeater,,,,,,,,,,,,,
+858,81963683,TS710,Second Ave - Blair St,,SECOND AVE,Fully Actuated,South Oakland,3,4,42003562900,3,4,4,2-12,40.42738986,-79.95518708
+859,1196440031,TSF146,W Carson St - Speed Control,,,,,,,,,,,,,
+872,1754333894,TS716,McArdle Sign Control Liberty Bridge,,,,Mount Washington,3,18,42003191400,5,18,3,4-27,40.42900698,-79.99953042
+873,1033839045,TS717,Forbes Ave - Lawrence Hall,,,,Central Oakland,3,4,42003982200,3,4,4,2-7,40.442727,-79.95523507
+905,825834781,TSF149,Faison School,,,,Homewood South,9,13,42003130300,2,13,5,3-17,40.45217139,-79.89443131
+938,1955949291,TS719,Penn Ave - Sally's Path,,,Fully Actuated,Shadyside,8,7,42003070800,2,7,4,3-13,40.45663416,-79.91623183
+971,1563096966,TSF150,RRFB - Chateau and Juniata,,,,Manchester,6,21,42003210700,1,21,1,1-8,40.45644922,-80.0291215
+972,757243668,TSF151,RRFB - Cohassett and Grandview,,,,Mount Washington,2,19,42003190300,5,19,3,4-1,40.43778745,-80.01821918
+1004,1687028145,TSF152,RRFB - 40th and Davison,,,,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46759572,-79.96092907
+1037,1973209422,TSF156,RRFB - Marion Street,,,,Bluff,6,1,42003010300,3,1,2,2-4,40.43616885,-79.98434733
+1070,1192275495,TS722,Clyde St - Fifth Avenue,,,,Shadyside,8,7,42003140100,2,7,4,2-9,40.44725085,-79.94534436
+1103,854480118,TSF154,RRFB - Shady and Pittock,,,,Squirrel Hill South,5,14,42003140800,3,14,4,2-21,40.42997188,-79.92032569
+1136,994278722,TS9999,,,,,,,,,,,,,,
+1169,1113074895,TSF153,RRFB - Shady Alder,,,,Shadyside,8,7,42003070800,2,7,4,3-11,40.45681394,-79.92243683
+1202,1150087908,TS718,Butler St - 39th St,,,,Lower Lawrenceville,7,6,42003060300,2,6,2,3-3,40.46755392,-79.96371702
+1203,1741138031,TS723,Smallman St - 15th St,,,,Strip District,7,2,42003020300,6,2,2,2-3,40.44870471,-79.98933883
+1235,1614046252,TSF155,Flashing Beacon and Speed Minder,,,,Greenfield,5,15,42003151700,3,15,4,2-15,40.42675082,-79.92702652
+1268,1830263951,TSF157,Flashing Warning Device - Carson St - S 2nd St,,,,South Shore,3,17,42003980700,5,17,3,4-2,40.43012993,-79.99906586
+1269,2132586828,TSF159,RRFB - Carson St - Terminal Way,,,,South Side Flats,3,17,42003170200,3,17,3,4-2,40.42943542,-79.99706426
+1301,1367398325,TSF158,Sycamore St Approach,,,,South Shore,3,18,42003980700,5,18,3,4-2,40.43024087,-80.00061551
+1334,2116421282,TSF160,Pioneer Avenue at Seton Center Driveway,,,,Brookline,4,19,42003191700,5,19,6,4-26,40.40337538,-80.01555791
